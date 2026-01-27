@@ -3,24 +3,19 @@ sidebar_position: 4
 title: Adjective Cheatsheet
 ---
 
-# Adjective Accusative Cheatsheet
+# Adjective Dative Cheatsheet
 
 All adjective endings at a glance.
 
 ---
 
-## Visual Cheatsheet
-
-![Accusative Adjective Cheatsheet](/img/accusative-adjective-cheatsheet.svg)
-
----
-
 ## The Golden Rule
 
-:::tip Accusative Adjectives
-**Only masculine animate and feminine adjectives change!**
-
-Everything else stays the same as nominative.
+:::tip Dative Adjectives
+| | Singular | Plural |
+|:--|:---------|:-------|
+| **Hard (nový)** | Masc/Neut: **-ému**, Fem: **-é** | All: **-ým** |
+| **Soft (cizí)** | Masc/Neut: **-ímu**, Fem: **-í** | All: **-ím** |
 :::
 
 ---
@@ -29,24 +24,21 @@ Everything else stays the same as nominative.
 
 ### Hard Adjectives (nový, starý, dobrý...)
 
-| | Nominative | Accusative | Example |
-|:--|:-----------|:-----------|:--------|
-| **Masc. Animate Sg.** | nov**ý** | nov**ého** | Vidím nového studenta. |
-| **Masc. Inanimate Sg.** | nov**ý** | nov**ý** | Vidím nový stůl. |
-| **Fem. Sg.** | nov**á** | nov**ou** | Vidím novou knihu. |
-| **Neut. Sg.** | nov**é** | nov**é** | Vidím nové auto. |
-| **Masc. Anim. Pl.** | nov**í** | nov**é** | Vidím nové studenty. |
-| **Other Plurals** | nové/á | nové/á | Vidím nové knihy. |
+| | Nominative | Dative | Example |
+|:--|:-----------|:-------|:--------|
+| **Masc. Sg.** | nov**ý** | nov**ému** | Dám to novému studentovi. |
+| **Fem. Sg.** | nov**á** | nov**é** | Dám to nové ženě. |
+| **Neut. Sg.** | nov**é** | nov**ému** | Jdu k novému městu. |
+| **All Plural** | nov**í/é/á** | nov**ým** | Dám to novým studentům. |
 
 ### Soft Adjectives (cizí, jarní, poslední...)
 
-| | Nominative | Accusative | Example |
-|:--|:-----------|:-----------|:--------|
-| **Masc. Animate Sg.** | ciz**í** | ciz**ího** | Vidím cizího muže. |
-| **Masc. Inanimate Sg.** | ciz**í** | ciz**í** | Vidím cizí dům. |
-| **Fem. Sg.** | ciz**í** | ciz**í** | Vidím cizí ženu. |
-| **Neut. Sg.** | ciz**í** | ciz**í** | Vidím cizí auto. |
-| **All Plural** | ciz**í** | ciz**í** | Vidím cizí studenty. |
+| | Nominative | Dative | Example |
+|:--|:-----------|:-------|:--------|
+| **Masc. Sg.** | ciz**í** | ciz**ímu** | Věřím cizímu mužovi. |
+| **Fem. Sg.** | ciz**í** | ciz**í** | Dám to cizí ženě. |
+| **Neut. Sg.** | ciz**í** | ciz**ímu** | Jdu k cizímu městu. |
+| **All Plural** | ciz**í** | ciz**ím** | Pomáhám cizím lidem. |
 
 ---
 
@@ -54,19 +46,21 @@ Everything else stays the same as nominative.
 
 ```
 ┌─────────────────────────────────────────────┐
-│           ACCUSATIVE ADJECTIVES             │
+│           DATIVE ADJECTIVES                 │
 ├─────────────────────────────────────────────┤
 │                                             │
-│   HARD (-ý/-á/-é)                           │
+│   SINGULAR                                  │
 │   ─────────────                             │
-│   Masc. Animate: -ý → -ÉHO                  │
-│   Feminine:      -á → -OU                   │
-│   Everything else: NO CHANGE                │
+│   HARD: Masc/Neut -ÉMU, Fem -É              │
+│         (novému studentovi, nové ženě)      │
 │                                             │
-│   SOFT (-í)                                 │
-│   ─────────                                 │
-│   Masc. Animate: -í → -ÍHO                  │
-│   Everything else: NO CHANGE                │
+│   SOFT: Masc/Neut -ÍMU, Fem -Í              │
+│         (cizímu mužovi, cizí ženě)          │
+│                                             │
+│   PLURAL                                    │
+│   ─────────────                             │
+│   HARD: -ÝM (novým studentům)               │
+│   SOFT: -ÍM (cizím lidem)                   │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -75,57 +69,44 @@ Everything else stays the same as nominative.
 
 ## Possessives
 
-| Possessive | Masc. Anim. | Masc. Inan. | Feminine | Neuter |
-|:-----------|:------------|:------------|:---------|:-------|
-| můj | **mého** | můj | **mou** | mé |
-| tvůj | **tvého** | tvůj | **tvou** | tvé |
-| náš | **našeho** | náš | **naši** | naše |
-| váš | **vašeho** | váš | **vaši** | vaše |
-| jeho/její/jejich | no change | no change | no change | no change |
+| Possessive | Masc./Neut. | Feminine | Plural |
+|:-----------|:------------|:---------|:-------|
+| můj | **mému** | **mé** | **mým** |
+| tvůj | **tvému** | **tvé** | **tvým** |
+| náš | **našemu** | **naší** | **našim** |
+| váš | **vašemu** | **vaší** | **vašim** |
+| jeho/její/jejich | no change | no change | no change |
 
 ---
 
 ## Demonstratives
 
-| | Masc. Anim. | Masc. Inan. | Feminine | Neuter |
-|:--|:-----------|:------------|:---------|:-------|
-| ten/ta/to | **toho** | ten | **tu** | to |
-| tento | **tohoto** | tento | **tuto** | toto |
-
----
-
-## Interrogatives (Který/Jaký)
-
-| | Masc. Anim. | Masc. Inan. | Feminine | Neuter |
-|:--|:-----------|:------------|:---------|:-------|
-| který | **kterého** | který | **kterou** | které |
-| jaký | **jakého** | jaký | **jakou** | jaké |
+| | Masc./Neut. | Feminine | Plural |
+|:--|:-----------|:---------|:-------|
+| ten/ta/to | **tomu** | **té** | **těm** |
+| tento | **tomuto** | **této** | **těmto** |
 
 ---
 
 ## Common Examples
 
-| Type | Nominative | Accusative | English |
-|:-----|:-----------|:-----------|:--------|
-| Hard M.Anim | nový student | nového studenta | a new student |
-| Hard M.Inan | velký dům | velký dům | a big house |
-| Hard F | dobrá kniha | dobrou knihu | a good book |
-| Hard N | malé auto | malé auto | a small car |
-| Soft M.Anim | cizí muž | cizího muže | a foreign man |
-| Possessive | můj bratr | mého bratra | my brother |
-| Demonstrative | ta žena | tu ženu | that woman |
-| Interrogative | který učitel | kterého učitele | which teacher |
+| Type | Nominative | Dative | English |
+|:-----|:-----------|:-------|:--------|
+| Hard M | nový student | novému studentovi | a new student |
+| Hard F | dobrá kamarádka | dobré kamarádce | a good friend |
+| Hard N | velké město | velkému městu | a big city |
+| Soft M | cizí muž | cizímu mužovi | a foreign man |
+| Possessive | můj bratr | mému bratrovi | my brother |
+| Demonstrative | ta žena | té ženě | that woman |
 
 ---
 
 ## Summary
 
-| What Changes | Hard | Soft |
-|:-------------|:-----|:-----|
-| Masc. Animate Sg. | -ý → **-ého** | -í → **-ího** |
-| Feminine Sg. | -á → **-ou** | (no change) |
-| Masc. Animate Pl. | -í → **-é** | (no change) |
-| **Everything else** | **NO CHANGE** | **NO CHANGE** |
+| | Masc./Neut. Sg. | Fem. Sg. | All Plural |
+|:--|:---------------|:---------|:-----------|
+| **Hard** | -ému | -é | -ým |
+| **Soft** | -ímu | -í | -ím |
 
 ---
 

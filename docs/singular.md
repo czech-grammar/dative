@@ -3,221 +3,269 @@ sidebar_position: 2
 title: Singular Endings
 ---
 
-# Accusative Singular Endings
+# Dative Singular Endings
 
-Good news! The Accusative is **simpler** than most other cases. The key rule: **only masculine animate and feminine -a nouns really change**.
+The Dative has distinct patterns for each gender. The trickiest part is **feminine palatalization** - when certain consonants change before the **-ě** ending.
 
 ---
 
 ## The Big Picture
 
 :::tip The Golden Rule
-- **Masculine animate** → Changes (like genitive: -a or -e)
-- **Masculine inanimate** → NO CHANGE
-- **Feminine -a** → Changes to **-u**
-- **Everything else** → NO CHANGE
+| Gender | Ending | Example |
+|:-------|:-------|:--------|
+| Masc. Animate | **-ovi** | studentovi |
+| Masc. Inanimate | **-u** | hradu |
+| Feminine -a | **-ě** (with palatalization) | ženě, matce |
+| Feminine -e/-cons | **-i** | růži, věci |
+| Neuter | **-u** or **-i** | městu, moři |
 :::
 
 ---
 
 ## Quick Reference
 
-| Gender/Type | Nominative | Accusative | Change? |
-|:------------|:-----------|:-----------|:--------|
-| **Masc. Animate Hard** | student | student**a** | ✅ -a |
-| **Masc. Animate Soft** | muž | muž**e** | ✅ -e |
-| **Masc. Inanimate** | stůl | stůl | ❌ same |
-| **Feminine -a** | žena | žen**u** | ✅ -u |
-| **Feminine -e** | růže | růže | ❌ same |
-| **Feminine cons.** | věc | věc | ❌ same |
-| **Neuter -o** | město | město | ❌ same |
-| **Neuter -e** | moře | moře | ❌ same |
-| **Neuter -í** | nádraží | nádraží | ❌ same |
+| Gender/Type | Nominative | Dative | Change |
+|:------------|:-----------|:-------|:-------|
+| **Masc. Animate Hard** | student | student**ovi** | +ovi |
+| **Masc. Animate Soft** | muž | muž**ovi**/muž**i** | +ovi/+i |
+| **Masc. Inanimate Hard** | hrad | hrad**u** | +u |
+| **Masc. Inanimate Soft** | stroj | stroj**i** | +i |
+| **Feminine -a (hard)** | žena | žen**ě** | -a→ě |
+| **Feminine -a (velar)** | matka | matc**e** | palatalization! |
+| **Feminine -e** | růže | růž**i** | -e→i |
+| **Feminine cons.** | věc | věc**i** | +i |
+| **Neuter -o** | město | měst**u** | -o→u |
+| **Neuter -e** | moře | moř**i** | -e→i |
+| **Neuter -í** | nádraží | nádraž**í** | no change |
 
 ---
 
 ## Masculine Nouns
 
-### Animate (people, animals) - THE KEY PATTERN
+### Animate (people, animals) → **-ovi**
 
-This is the main thing you need to learn. Masculine animate nouns **change like the genitive**.
+Most masculine animate nouns take **-ovi** in dative. This is the safest, most common ending.
 
-#### Hard Pattern → add **-a**
+#### Hard Pattern → **-ovi**
 
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| student | student**a** | Vidím studenta. |
-| pes | ps**a** | Mám psa. |
-| bratr | bratr**a** | Znám bratra. |
-| otec | otc**e** | Vidím otce. |
-| Petr | Petr**a** | Znám Petra. |
-| pán | pán**a** | Vidím pána. |
-| kluk | kluk**a** | Znám kluka. |
-| doktor | doktor**a** | Potřebuji doktora. |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| student | student**ovi** | Dám to studentovi. |
+| bratr | bratr**ovi** | Řekni to bratrovi. |
+| otec | otc**ovi** | Pomáhám otcovi. |
+| syn | syn**ovi** | Koupím to synovi. |
+| pes | ps**ovi** | Dám jídlo psovi. |
+| Petr | Petr**ovi** | Volám Petrovi. |
+| doktor | doktor**ovi** | Jdu k doktorovi. |
+| kamarád | kamarád**ovi** | Děkuji kamarádovi. |
 
-#### Soft Pattern → add **-e**
+#### Soft Pattern → **-ovi** or **-i**
 
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| muž | muž**e** | Vidím muže. |
-| učitel | učitel**e** | Znám učitele. |
-| přítel | přítel**e** | Mám přítele. |
-| prodavač | prodavač**e** | Vidím prodavače. |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| muž | muž**ovi** / muž**i** | Řekni to mužovi. |
+| učitel | učitel**ovi** / učitel**i** | Odpovídám učitelovi. |
+| přítel | přítel**ovi** / přítel**i** | Dám to příteli. |
+| Tomáš | Tomáš**ovi** | Gratuluju Tomášovi. |
 
-:::tip How to tell Hard vs Soft?
-**Soft consonants**: ž, š, č, ř, c, j, ď, ť, ň (and -tel, -ec endings)
-**Hard consonants**: everything else (d, t, n, r, s, z, k, h, ch, b, p, m, v, f...)
+:::tip -ovi is always safe!
+When in doubt, use **-ovi** for masculine animate. It works for both hard and soft stems!
 :::
 
-### Inanimate (things) - NO CHANGE
+### Inanimate (things) → **-u** or **-i**
 
-Masculine inanimate nouns **stay the same** in accusative!
+Masculine inanimate nouns don't use -ovi.
 
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| stůl | stůl | Vidím stůl. |
-| dům | dům | Mám dům. |
-| počítač | počítač | Potřebuji počítač. |
-| telefon | telefon | Chci telefon. |
-| čaj | čaj | Piju čaj. |
-| chleba | chleba | Jím chleba. |
-| obchod | obchod | Hledám obchod. |
+#### Hard Pattern → **-u**
+
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| hrad | hrad**u** | Jdu k hradu. |
+| dům | dom**u** | Blížíme se k domu. |
+| stůl | stol**u** | Jdu ke stolu. |
+| obchod | obchod**u** | Jdu k obchodu. |
+| les | les**u** | Jdu k lesu. |
+| park | park**u** | Jdu k parku. |
+
+#### Soft Pattern → **-i**
+
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| stroj | stroj**i** | Přistup ke stroji. |
+| pokoj | pokoj**i** | Jdu k pokoji. |
+| počítač | počítač**i** | Přistup k počítači. |
+| nůž | nož**i** | — |
 
 ---
 
 ## Feminine Nouns
 
-### Hard Feminine (-a nouns) → **-u**
+### Hard Feminine (-a nouns) → **-ě** with Palatalization!
 
-The ending **-a** changes to **-u**.
+This is the **tricky part** of dative. The ending is **-ě**, but certain consonants change before it:
 
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| žena | žen**u** | Vidím ženu. |
-| kniha | knih**u** | Čtu knihu. |
-| káva | káv**u** | Chci kávu. |
-| voda | vod**u** | Piju vodu. |
-| Praha | Prah**u** | Znám Prahu. |
-| škola | škol**u** | Vidím školu. |
-| matka | matk**u** | Miluju matku. |
-| sestra | sestr**u** | Znám sestru. |
-| práce | prác**i** | Mám práci. |
+:::warning Palatalization Rules
+| Before -ě | Changes to | Example |
+|:----------|:-----------|:--------|
+| **k** | **c** | matka → matc**e** |
+| **h** | **z** | kniha → kniz**e** |
+| **ch** | **š** | moucha → mouš**e** |
+| **r** | **ř** | sestra → sestř**e** |
+| **d** | **ď** | voda → voď**e** |
+| **t** | **ť** | teta → teť**e** |
+| **n** | **ň** | žena → žeň**e** → ženě |
+:::
 
-:::warning Feminine -e nouns
-Nouns ending in **-e** (like práce, restaurace) change to **-i** in accusative:
-- práce → prác**i** (Mám práci.)
-- restaurace → restaurac**i** (Znám tu restauraci.)
+#### Regular -a → -ě
+
+| Nominative | Dative | Notes |
+|:-----------|:-------|:------|
+| žena | žen**ě** | Regular |
+| škola | škol**e** | Regular |
+| kancelář | kancelář**i** | Cons. ending! |
+
+#### With Palatalization
+
+| Nominative | Dative | Consonant Change |
+|:-----------|:-------|:-----------------|
+| matka | matc**e** | k → c |
+| dcera | dceř**e** | r → ř |
+| sestra | sestř**e** | r → ř |
+| kniha | kniz**e** | h → z |
+| Praha | Praz**e** | h → z |
+| noha | noz**e** | h → z |
+| babička | babičc**e** | k → c |
+| holka | holc**e** | k → c |
+| ruka | ruc**e** | k → c |
+| kavárna | kavárn**ě** | Regular |
+| restaurace | restaurac**i** | -e ending! |
+
+:::tip Memory trick for k/h/ch
+**K**olo → **C**ykel (like German!)
+**H**rad → (imagine) **Z**rad
+**Ch**ata → **Š**ata
+
+These consonants "soften" before -ě.
 :::
 
 ### Soft Feminine (-e nouns) → **-i**
 
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| růže | růž**i** | Mám růži. |
-| restaurace | restaurac**i** | Hledám restauraci. |
-| ulice | ulic**i** | Vidím ulici. |
-| kancelář | kancelář | Mám kancelář. |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| růže | růž**i** | Dám vodu růži. |
+| ulice | ulic**i** | Jdu k ulici. |
+| restaurace | restaurac**i** | Jdeme k restauraci. |
+| kancelář | kancelář**i** | Jdu ke kanceláři. |
+| práce | prác**i** | Věnuji se práci. |
 
-### Consonant-ending Feminine → NO CHANGE
+### Consonant-ending Feminine → **-i**
 
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| věc | věc | Vidím tu věc. |
-| noc | noc | Miluju noc. |
-| postel | postel | Potřebuji postel. |
-| píseň | píseň | Znám tu píseň. |
-
----
-
-## Neuter Nouns - NO CHANGE
-
-All neuter nouns **stay the same** in accusative!
-
-| Nominative | Accusative | Example |
-|:-----------|:-----------|:--------|
-| město | město | Znám to město. |
-| auto | auto | Mám auto. |
-| pivo | pivo | Chci pivo. |
-| jablko | jablko | Jím jablko. |
-| víno | víno | Piju víno. |
-| moře | moře | Vidím moře. |
-| nádraží | nádraží | Hledám nádraží. |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| věc | věc**i** | Nevěřím té věci. |
+| noc | noc**i** | Blíží se k noci. |
+| postel | postel**i** | Jdu k posteli. |
+| píseň | písn**i** | — |
+| kost | kost**i** | — |
 
 ---
 
-## Common Words Summary
+## Neuter Nouns
 
-### Masculine Animate (changes)
+### Hard Neuter (-o nouns) → **-u**
 
-| Word | Meaning | Accusative |
-|:-----|:--------|:-----------|
-| muž | man | muž**e** |
-| student | student | student**a** |
-| bratr | brother | bratr**a** |
-| otec | father | otc**e** |
-| syn | son | syn**a** |
-| pes | dog | ps**a** |
-| kočka | cat | kočk**u** (fem!) |
-| přítel | friend | přítel**e** |
-| doktor | doctor | doktor**a** |
-| učitel | teacher | učitel**e** |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| město | měst**u** | Blížíme se k městu. |
+| auto | aut**u** | Jdu k autu. |
+| pivo | piv**u** | — |
+| kino | kin**u** | Jdeme ke kinu. |
+| divadlo | divadl**u** | Jdeme k divadlu. |
+| okno | okn**u** | Jdu k oknu. |
 
-### Feminine -a (changes to -u)
+### Soft Neuter (-e nouns) → **-i**
 
-| Word | Meaning | Accusative |
-|:-----|:--------|:-----------|
-| žena | woman | žen**u** |
-| matka | mother | matk**u** |
-| sestra | sister | sestr**u** |
-| dcera | daughter | dcer**u** |
-| kniha | book | knih**u** |
-| káva | coffee | káv**u** |
-| voda | water | vod**u** |
-| škola | school | škol**u** |
-| Praha | Prague | Prah**u** |
-| Morava | Moravia | Morav**u** |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| moře | moř**i** | Jdeme k moři. |
+| srdce | srdc**i** | Mluv k srdci. |
+| pole | pol**i** | Jdu k poli. |
+| letiště | letišt**i** | Jedu k letišti. |
 
-### No Change (inanimate masc., neuter)
+### -í Neuter → NO CHANGE
 
-| Word | Meaning | Accusative |
-|:-----|:--------|:-----------|
-| stůl | table | stůl |
-| dům | house | dům |
-| telefon | phone | telefon |
-| auto | car | auto |
-| město | city | město |
-| pivo | beer | pivo |
+| Nominative | Dative | Example |
+|:-----------|:-------|:--------|
+| nádraží | nádraž**í** | Jdu k nádraží. |
+| náměstí | náměst**í** | Jdu k náměstí. |
+| pondělí | pondělí | — |
+
+---
+
+## Palatalization Deep Dive
+
+The palatalization in feminine dative is the same as in locative. Here's a complete reference:
+
+### Full Palatalization Table
+
+| Original | Before -ě | Example (Nom → Dat) |
+|:---------|:----------|:--------------------|
+| d | ď | voda → vodě |
+| t | ť | teta → tetě |
+| n | ň | stěna → stěně |
+| r | ř | sestra → sestře |
+| k | c | matka → matce |
+| h | z | kniha → knize |
+| ch | š | moucha → mouše |
+
+### Common Words with Palatalization
+
+| Word | Meaning | Dative |
+|:-----|:--------|:-------|
+| matka | mother | matce |
+| babička | grandmother | babičce |
+| sestra | sister | sestře |
+| dcera | daughter | dceře |
+| holka | girl | holce |
+| ruka | hand | ruce |
+| noha | foot/leg | noze |
+| kniha | book | knize |
+| Praha | Prague | Praze |
+| banka | bank | bance |
+| kavárna | café | kavárně |
+| Amerika | America | Americe |
 
 ---
 
 ## Practice
 
-Put the noun in Accusative:
+Put the noun in Dative:
 
-1. Vidím ___ (student) →
-2. Mám ___ (kniha) →
-3. Chci ___ (káva) →
-4. Znám ___ (Praha) →
-5. Vidím ___ (pes) →
-6. Potřebuji ___ (počítač) →
-7. Mám ___ (auto) →
-8. Miluju ___ (sestra) →
-9. Hledám ___ (učitel) →
-10. Piju ___ (voda) →
+1. Dám knihu ___ (student) →
+2. Pomáhám ___ (matka) →
+3. Jdu k ___ (hrad) →
+4. Řekni to ___ (sestra) →
+5. Blížíme se k ___ (město) →
+6. Volám ___ (doktor) →
+7. Jdeme k ___ (moře) →
+8. Věřím ___ (kamarádka) →
+9. Jdu k ___ (Praha) →
+10. Dám to ___ (učitel) →
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Vidím **studenta** (masc. animate hard → -a)
-2. Mám **knihu** (fem. -a → -u)
-3. Chci **kávu** (fem. -a → -u)
-4. Znám **Prahu** (fem. -a → -u)
-5. Vidím **psa** (masc. animate hard → -a)
-6. Potřebuji **počítač** (masc. inanimate → no change)
-7. Mám **auto** (neuter → no change)
-8. Miluju **sestru** (fem. -a → -u)
-9. Hledám **učitele** (masc. animate soft → -e)
-10. Piju **vodu** (fem. -a → -u)
+1. Dám knihu **studentovi** (masc. animate → -ovi)
+2. Pomáhám **matce** (fem. -a, k→c palatalization)
+3. Jdu k **hradu** (masc. inanimate → -u)
+4. Řekni to **sestře** (fem. -a, r→ř palatalization)
+5. Blížíme se k **městu** (neuter -o → -u)
+6. Volám **doktorovi** (masc. animate → -ovi)
+7. Jdeme k **moři** (neuter -e → -i)
+8. Věřím **kamarádce** (fem. -a, k→c palatalization)
+9. Jdu k **Praze** (fem. -a, h→z palatalization)
+10. Dám to **učitelovi** (masc. animate soft → -ovi)
 
 </details>
 
@@ -227,35 +275,40 @@ Put the noun in Accusative:
 
 :::warning Watch Out!
 
-**❌ Vidím bratr** (nominative, wrong!)
-**✅ Vidím bratra** (accusative for animate)
+**❌ Dám to studentu** (using inanimate ending for animate!)
+**✅ Dám to studentovi** (animate takes -ovi)
 
 ---
 
-**❌ Mám žena** (nominative, wrong!)
-**✅ Mám ženu** (feminine -a → -u)
+**❌ Pomáhám matka** (nominative, wrong!)
+**✅ Pomáhám matce** (dative with palatalization)
 
 ---
 
-**❌ Vidím stůla** (treating inanimate as animate!)
-**✅ Vidím stůl** (inanimate doesn't change)
+**❌ Jdu k Prahu** (wrong ending!)
+**✅ Jdu k Praze** / **do Prahy** (dative: Praze, genitive: Prahy)
+
+---
+
+**❌ Řekni to sestru** (that's accusative!)
+**✅ Řekni to sestře** (dative for "tell TO someone")
 :::
 
 ---
 
 ## Memory Trick
 
-:::info Think: "Who/What do I see?"
-- **Animate beings** (people, animals) → they "react" to being seen → **they change**
-- **Inanimate things** → they don't care → **no change**
-- **Feminine -a** → becomes **-u** (the "u" of accusative)
-- **Neuter** → always stays the same
+:::info Remember the Pattern
+- **Animate beings** get the "personal" ending **-ovi** (they're people/animals!)
+- **Inanimate masculine** uses **-u** (simple!)
+- **Feminine -a** uses **-ě** with softening (same as locative!)
+- **Everything else** mostly uses **-i**
 :::
 
 ---
 
 ## Next Steps
 
-- [Plural Endings →](/plural) - Accusative plurals
-- [Prepositions →](/prepositions) - na, do, pro, přes, za
-- [Pronouns →](/pronouns) - mě, tě, ho, ji, nás, vás, je
+- [Plural Endings →](/plural) - Dative plurals
+- [Prepositions →](/prepositions) - k, díky, kvůli, proti
+- [Pronouns →](/pronouns) - mi, ti, mu, jí, nám, vám, jim

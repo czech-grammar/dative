@@ -3,16 +3,16 @@ sidebar_position: 4
 title: Transform
 ---
 
-# Exercise: Nominative → Accusative
+# Exercise: Nominative → Dative
 
-Transform nouns from their dictionary form (Nominative) to the Accusative case.
+Transform nouns from their dictionary form (Nominative) to the Dative case.
 
 ---
 
-## Level 1: Masculine Animate
+## Level 1: Masculine Animate (-ovi)
 
-| Nominative | → Accusative |
-|:-----------|:-------------|
+| Nominative | → Dative |
+|:-----------|:---------|
 | 1. student | |
 | 2. bratr | |
 | 3. pes | |
@@ -22,118 +22,180 @@ Transform nouns from their dictionary form (Nominative) to the Accusative case.
 | 7. přítel | |
 | 8. Petr | |
 | 9. doktor | |
-| 10. prodavač | |
+| 10. kamarád | |
 
 <details>
 <summary>**Check Answers**</summary>
 
-| Nominative | → Accusative |
-|:-----------|:-------------|
-| 1. student | **studenta** |
-| 2. bratr | **bratra** |
-| 3. pes | **psa** |
-| 4. otec | **otce** |
-| 5. muž | **muže** |
-| 6. učitel | **učitele** |
-| 7. přítel | **přítele** |
-| 8. Petr | **Petra** |
-| 9. doktor | **doktora** |
-| 10. prodavač | **prodavače** |
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. student | **studentovi** |
+| 2. bratr | **bratrovi** |
+| 3. pes | **psovi** |
+| 4. otec | **otcovi** |
+| 5. muž | **mužovi** |
+| 6. učitel | **učitelovi** |
+| 7. přítel | **přítelovi** |
+| 8. Petr | **Petrovi** |
+| 9. doktor | **doktorovi** |
+| 10. kamarád | **kamarádovi** |
 
 </details>
 
 ---
 
-## Level 2: Feminine
+## Level 2: Feminine with Palatalization
 
-| Nominative | → Accusative |
-|:-----------|:-------------|
+| Nominative | → Dative |
+|:-----------|:---------|
 | 1. žena | |
-| 2. kniha | |
-| 3. káva | |
+| 2. matka | |
+| 3. sestra | |
 | 4. Praha | |
-| 5. sestra | |
-| 6. růže | |
-| 7. restaurace | |
-| 8. práce | |
-| 9. věc | |
-| 10. noc | |
+| 5. kniha | |
+| 6. babička | |
+| 7. kamarádka | |
+| 8. banka | |
+| 9. dcera | |
+| 10. škola | |
 
 <details>
 <summary>**Check Answers**</summary>
 
-| Nominative | → Accusative |
-|:-----------|:-------------|
-| 1. žena | **ženu** |
-| 2. kniha | **knihu** |
-| 3. káva | **kávu** |
-| 4. Praha | **Prahu** |
-| 5. sestra | **sestru** |
-| 6. růže | **růži** |
-| 7. restaurace | **restauraci** |
-| 8. práce | **práci** |
-| 9. věc | **věc** |
-| 10. noc | **noc** |
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. žena | **ženě** |
+| 2. matka | **matce** (k→c) |
+| 3. sestra | **sestře** (r→ř) |
+| 4. Praha | **Praze** (h→z) |
+| 5. kniha | **knize** (h→z) |
+| 6. babička | **babičce** (k→c) |
+| 7. kamarádka | **kamarádce** (k→c) |
+| 8. banka | **bance** (k→c) |
+| 9. dcera | **dceři** (r→ř) |
+| 10. škola | **škole** |
 
 </details>
 
 ---
 
-## Level 3: Mixed (No Change)
+## Level 3: Soft Feminine (-i)
 
-These should NOT change. Confirm they stay the same:
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. růže | |
+| 2. restaurace | |
+| 3. práce | |
+| 4. věc | |
+| 5. noc | |
+| 6. ulice | |
+| 7. kancelář | |
+| 8. postel | |
 
-| Nominative | → Accusative |
-|:-----------|:-------------|
-| 1. stůl | |
+<details>
+<summary>**Check Answers**</summary>
+
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. růže | **růži** |
+| 2. restaurace | **restauraci** |
+| 3. práce | **práci** |
+| 4. věc | **věci** |
+| 5. noc | **noci** |
+| 6. ulice | **ulici** |
+| 7. kancelář | **kanceláři** |
+| 8. postel | **posteli** |
+
+</details>
+
+---
+
+## Level 4: Neuter and Masculine Inanimate
+
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. město | |
 | 2. auto | |
-| 3. město | |
-| 4. telefon | |
-| 5. pivo | |
+| 3. moře | |
+| 4. nádraží | |
+| 5. hrad | |
 | 6. dům | |
-| 7. počítač | |
-| 8. nádraží | |
+| 7. stůl | |
+| 8. stroj | |
 
 <details>
 <summary>**Check Answers**</summary>
 
-| Nominative | → Accusative |
-|:-----------|:-------------|
-| 1. stůl | **stůl** (inanimate) |
-| 2. auto | **auto** (neuter) |
-| 3. město | **město** (neuter) |
-| 4. telefon | **telefon** (inanimate) |
-| 5. pivo | **pivo** (neuter) |
-| 6. dům | **dům** (inanimate) |
-| 7. počítač | **počítač** (inanimate) |
-| 8. nádraží | **nádraží** (neuter) |
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. město | **městu** (neut. -o → -u) |
+| 2. auto | **autu** (neut. -o → -u) |
+| 3. moře | **moři** (neut. -e → -i) |
+| 4. nádraží | **nádraží** (neut. -í → no change) |
+| 5. hrad | **hradu** (masc. inan. → -u) |
+| 6. dům | **domu** (masc. inan. → -u) |
+| 7. stůl | **stolu** (masc. inan. → -u) |
+| 8. stroj | **stroji** (masc. inan. soft → -i) |
 
 </details>
 
 ---
 
-## Level 4: Plurals
+## Level 5: Pronouns
 
-| Nom. Singular | Nom. Plural | → Acc. Plural |
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. já | |
+| 2. ty | |
+| 3. on | |
+| 4. ona | |
+| 5. my | |
+| 6. vy | |
+| 7. oni | |
+| 8. kdo | |
+| 9. co | |
+
+<details>
+<summary>**Check Answers**</summary>
+
+| Nominative | → Dative |
+|:-----------|:---------|
+| 1. já | **mi / mně** |
+| 2. ty | **ti / tobě** |
+| 3. on | **mu / jemu** |
+| 4. ona | **jí** |
+| 5. my | **nám** |
+| 6. vy | **vám** |
+| 7. oni | **jim** |
+| 8. kdo | **komu** |
+| 9. co | **čemu** |
+
+</details>
+
+---
+
+## Level 6: Plurals
+
+| Nom. Singular | Nom. Plural | → Dat. Plural |
 |:--------------|:------------|:--------------|
 | 1. student | studenti | |
-| 2. muž | muži | |
-| 3. pes | psi | |
-| 4. žena | ženy | |
-| 5. kniha | knihy | |
-| 6. auto | auta | |
+| 2. žena | ženy | |
+| 3. město | města | |
+| 4. růže | růže | |
+| 5. moře | moře | |
+| 6. muž | muži | |
 
 <details>
 <summary>**Check Answers**</summary>
 
-| Nom. Singular | Nom. Plural | → Acc. Plural |
+| Nom. Singular | Nom. Plural | → Dat. Plural |
 |:--------------|:------------|:--------------|
-| 1. student | studenti | **studenty** |
-| 2. muž | muži | **muže** |
-| 3. pes | psi | **psy** |
-| 4. žena | ženy | **ženy** |
-| 5. kniha | knihy | **knihy** |
-| 6. auto | auta | **auta** |
+| 1. student | studenti | **studentům** |
+| 2. žena | ženy | **ženám** |
+| 3. město | města | **městům** |
+| 4. růže | růže | **růžím** |
+| 5. moře | moře | **mořím** |
+| 6. muž | muži | **mužům** |
 
 </details>
 
@@ -141,6 +203,6 @@ These should NOT change. Confirm they stay the same:
 
 ## Next Steps
 
-- [Direct Objects →](/exercises/direct-objects)
+- [Indirect Objects →](/exercises/indirect-objects)
 - [Fill in the Blank →](/exercises/fill-blank)
 - [Interactive Quizzes →](/exercises/interactive)

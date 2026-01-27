@@ -3,173 +3,189 @@ sidebar_position: 3
 title: Plural Endings
 ---
 
-# Accusative Plural Endings
+# Dative Plural Endings
 
-Good news! Like the singular, the Accusative plural is **relatively simple**. Only masculine animate nouns have special endings.
+Great news! The Dative plural is **surprisingly simple** - there are basically just three endings for ALL genders!
 
 ---
 
 ## The Big Picture
 
 :::tip The Golden Rule
-- **Masculine animate** → Special endings (-y or -e)
-- **Everything else** → Same as Nominative plural!
+| Pattern | Ending | Examples |
+|:--------|:-------|:---------|
+| Masc. hard & Neuter -o | **-ům** | studentům, městům |
+| Feminine -a | **-ám** | ženám |
+| All soft patterns | **-ím** | mužím, růžím, mořím |
 :::
 
 ---
 
 ## Quick Reference
 
-| Gender/Type | Nominative Pl. | Accusative Pl. | Change? |
-|:------------|:---------------|:---------------|:--------|
-| **Masc. Animate Hard** | studenti | student**y** | ✅ -y |
-| **Masc. Animate Soft** | muži | muž**e** | ✅ -e |
-| **Masc. Inanimate** | stoly | stoly | ❌ same |
-| **Feminine** | ženy | ženy | ❌ same |
-| **Neuter** | města | města | ❌ same |
+| Gender/Type | Nom. Sg. | Dative Pl. | Example |
+|:------------|:---------|:-----------|:--------|
+| **Masc. Animate Hard** | student | student**ům** | Dám to studentům. |
+| **Masc. Animate Soft** | muž | muž**ům** | Řekni to mužům. |
+| **Masc. Inanimate Hard** | hrad | hrad**ům** | Blížíme se k hradům. |
+| **Masc. Inanimate Soft** | stroj | stroj**ům** | — |
+| **Feminine -a** | žena | žen**ám** | Pomáhám ženám. |
+| **Feminine -e** | růže | růž**ím** | Dávám vodu růžím. |
+| **Feminine cons.** | věc | věc**em** | Nevěřím těm věcem. |
+| **Neuter -o** | město | měst**ům** | Jezdíme k městům. |
+| **Neuter -e** | moře | moř**ím** | Jezdíme k mořím. |
+| **Neuter -í** | nádraží | nádraž**ím** | Jezdíme k nádražím. |
 
 ---
 
-## Masculine Animate Plural
+## Masculine Plural
 
-This is the only tricky part! Masculine animate plurals change.
+### Hard Pattern → **-ům**
 
-### Hard Pattern → **-y**
+Both animate and inanimate hard masculine nouns take **-ům**:
 
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| student | studenti | student**y** | Vidím studenty. |
-| pán | páni | pán**y** | Znám ty pány. |
-| pes | psi | ps**y** | Vidím psy. |
-| bratr | bratři | bratr**y** | Mám dva bratry. |
-| doktor | doktoři | doktor**y** | Potřebuji doktory. |
-| Čech | Češi | Čech**y** | Znám Čechy. |
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| student | student**ům** | Dám úkol studentům. |
+| bratr | bratr**ům** | Pomáhám bratrům. |
+| pes | ps**ům** | Dávám jídlo psům. |
+| hrad | hrad**ům** | Jezdíme k hradům. |
+| dům | dom**ům** | Blížíme se k domům. |
+| stůl | stol**ům** | Jdu ke stolům. |
 
-### Soft Pattern → **-e**
+### Soft Pattern → **-ům**
 
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| muž | muži | muž**e** | Vidím muže. |
-| učitel | učitelé | učitel**e** | Znám učitele. |
-| přítel | přátelé | přítel**e** | Mám přátele. |
-| prodavač | prodavači | prodavač**e** | Vidím prodavače. |
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| muž | muž**ům** | Řekni to mužům. |
+| učitel | učitel**ům** | Děkuji učitelům. |
+| stroj | stroj**ům** | — |
 
----
-
-## Masculine Inanimate Plural - NO CHANGE
-
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| stůl | stoly | stoly | Vidím stoly. |
-| dům | domy | domy | Mám domy. |
-| hrad | hrady | hrady | Vidím hrady. |
-| počítač | počítače | počítače | Potřebuji počítače. |
+:::tip Simple!
+All masculine plurals end in **-ům** - no need to distinguish hard/soft or animate/inanimate!
+:::
 
 ---
 
-## Feminine Plural - NO CHANGE
+## Feminine Plural
 
-All feminine plurals stay the same in accusative (= nominative plural).
+### Hard Feminine (-a nouns) → **-ám**
 
-### -a Nouns
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| žena | žen**ám** | Dávám květiny ženám. |
+| matka | matk**ám** | Pomáhám matkám. |
+| kniha | knih**ám** | — |
+| škola | škol**ám** | Jezdíme ke školám. |
+| sestra | sestr**ám** | Volám sestrám. |
 
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| žena | ženy | ženy | Vidím ženy. |
-| kniha | knihy | knihy | Čtu knihy. |
-| škola | školy | školy | Znám školy. |
-| sestra | sestry | sestry | Mám sestry. |
+### Soft Feminine (-e nouns) → **-ím**
 
-### -e Nouns
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| růže | růž**ím** | Dávám vodu růžím. |
+| ulice | ulic**ím** | Jdeme k ulicím. |
+| restaurace | restaurac**ím** | Blížíme se k restauracím. |
 
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| růže | růže | růže | Mám růže. |
-| restaurace | restaurace | restaurace | Znám restaurace. |
-| ulice | ulice | ulice | Vidím ulice. |
+### Consonant Feminine → **-em** / **-ím**
 
-### Consonant Nouns
-
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| věc | věci | věci | Vidím věci. |
-| noc | noci | noci | Miluju noci. |
-| píseň | písně | písně | Znám písně. |
-
----
-
-## Neuter Plural - NO CHANGE
-
-All neuter plurals stay the same in accusative (= nominative plural).
-
-| Nominative Sg. | Nominative Pl. | Accusative Pl. | Example |
-|:---------------|:---------------|:---------------|:--------|
-| město | města | města | Znám města. |
-| auto | auta | auta | Mám auta. |
-| pivo | piva | piva | Piju piva. |
-| jablko | jablka | jablka | Jím jablka. |
-| moře | moře | moře | Vidím moře. |
-| nádraží | nádraží | nádraží | Hledám nádraží. |
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| věc | věc**em** | Nevěřím těm věcem. |
+| noc | noc**ím** | — |
+| kost | kost**em** | — |
 
 ---
 
-## Summary Table
+## Neuter Plural
 
-| Gender | Singular Change | Plural Change |
-|:-------|:----------------|:--------------|
-| **Masc. Animate** | -a/-e | -y/-e |
-| **Masc. Inanimate** | no change | no change |
-| **Feminine -a** | -u | no change |
-| **Feminine -e** | -i | no change |
-| **Feminine cons.** | no change | no change |
-| **Neuter** | no change | no change |
+### Hard Neuter (-o nouns) → **-ům**
+
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| město | měst**ům** | Jezdíme k městům. |
+| auto | aut**ům** | Blížíme se k autům. |
+| okno | okn**ům** | Jdu k oknům. |
+| kino | kin**ům** | Jdeme ke kinům. |
+
+### Soft Neuter (-e nouns) → **-ím**
+
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| moře | moř**ím** | Jezdíme k mořím. |
+| pole | pol**ím** | Jdu k polím. |
+| letiště | letišt**ím** | Jezdíme k letištím. |
+
+### -í Neuter → **-ím**
+
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| nádraží | nádraž**ím** | Jezdíme k nádražím. |
+| náměstí | náměst**ím** | Jdeme k náměstím. |
+
+---
+
+## Summary: The Three Endings
+
+| Ending | Used For | Examples |
+|:-------|:---------|:---------|
+| **-ům** | Masc. (all), Neuter -o | studentům, hradům, městům |
+| **-ám** | Feminine -a | ženám, školám, matkám |
+| **-ím** | Soft patterns (all genders) | mužům, růžím, mořím, nádražím |
 
 ---
 
 ## Singular vs Plural Comparison
 
-| Word | Acc. Singular | Acc. Plural |
+| Word | Dat. Singular | Dat. Plural |
 |:-----|:--------------|:------------|
-| student | studenta | studenty |
-| muž | muže | muže |
-| pes | psa | psy |
-| stůl | stůl | stoly |
-| žena | ženu | ženy |
-| kniha | knihu | knihy |
-| růže | růži | růže |
-| město | město | města |
-| auto | auto | auta |
+| student | studentovi | studentům |
+| muž | mužovi | mužům |
+| hrad | hradu | hradům |
+| žena | ženě | ženám |
+| matka | matce | matkám |
+| růže | růži | růžím |
+| město | městu | městům |
+| moře | moři | mořím |
+
+---
+
+## With Dative Verbs
+
+| Verb | Singular Example | Plural Example |
+|:-----|:-----------------|:---------------|
+| pomáhat | Pomáhám bratrovi. | Pomáhám bratrům. |
+| věřit | Věřím učiteli. | Věřím učitelům. |
+| děkovat | Děkuji mamince. | Děkuji rodičům. |
+| rozumět | Rozumím studentovi. | Rozumím studentům. |
+| volat | Volám kamarádovi. | Volám kamarádům. |
 
 ---
 
 ## Practice
 
-Put the noun in Accusative plural:
+Put the noun in Dative plural:
 
-1. Vidím ___ (student) →
-2. Mám ___ (kniha) →
-3. Znám ___ (učitel) →
-4. Potřebuji ___ (počítač) →
-5. Vidím ___ (žena) →
-6. Mám ___ (auto) →
-7. Čtu ___ (noviny) →
-8. Vidím ___ (pes) →
-9. Znám ___ (město) →
-10. Mám rád ___ (muž) →
+1. Dám knihy ___ (student) →
+2. Pomáhám ___ (žena) →
+3. Jezdíme k ___ (město) →
+4. Věřím ___ (učitel) →
+5. Dávám vodu ___ (růže) →
+6. Blížíme se k ___ (hrad) →
+7. Děkuji ___ (kamarád) →
+8. Jdeme k ___ (moře) →
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Vidím **studenty** (masc. animate hard → -y)
-2. Mám **knihy** (fem. → same as nom. pl.)
-3. Znám **učitele** (masc. animate soft → -e)
-4. Potřebuji **počítače** (masc. inan. → same as nom. pl.)
-5. Vidím **ženy** (fem. → same as nom. pl.)
-6. Mám **auta** (neuter → same as nom. pl.)
-7. Čtu **noviny** (fem. → same as nom. pl.)
-8. Vidím **psy** (masc. animate hard → -y)
-9. Znám **města** (neuter → same as nom. pl.)
-10. Mám rád **muže** (masc. animate soft → -e)
+1. Dám knihy **studentům** (masc. hard → -ům)
+2. Pomáhám **ženám** (fem. -a → -ám)
+3. Jezdíme k **městům** (neuter -o → -ům)
+4. Věřím **učitelům** (masc. soft → -ům)
+5. Dávám vodu **růžím** (fem. -e → -ím)
+6. Blížíme se k **hradům** (masc. hard → -ům)
+7. Děkuji **kamarádům** (masc. hard → -ům)
+8. Jdeme k **mořím** (neuter -e → -ím)
 
 </details>
 
@@ -179,34 +195,34 @@ Put the noun in Accusative plural:
 
 :::warning Watch Out!
 
-**❌ Vidím studenti** (nominative plural!)
-**✅ Vidím studenty** (accusative plural for animate)
+**❌ Pomáhám studentovi** (singular when plural needed!)
+**✅ Pomáhám studentům** (dative plural)
 
 ---
 
-**❌ Vidím psi** (nominative plural!)
-**✅ Vidím psy** (accusative plural)
+**❌ Dám to ženů** (wrong ending!)
+**✅ Dám to ženám** (feminine -a takes -ám)
 
 ---
 
-**❌ Mám knihu** (singular!)
-**✅ Mám knihy** (plural needed)
+**❌ Jdu k městám** (wrong ending for neuter!)
+**✅ Jdu k městům** (neuter -o takes -ům)
 :::
 
 ---
 
 ## Memory Trick
 
-:::info Simple Rule
-Ask yourself: **Is it masculine animate?**
-- **Yes** → Change to -y (hard) or -e (soft)
-- **No** → Use nominative plural (no change)
+:::info Three Endings, That's It!
+- **-ům** = the "default" (masculine, neuter -o)
+- **-ám** = feminine -a words (think: fem**A** → -**Á**m)
+- **-ím** = soft patterns (soft consonants "want" -í-)
 :::
 
 ---
 
 ## Next Steps
 
-- [Singular Endings →](/singular) - Review singular patterns
-- [Adjectives →](/adjectives) - Adjective agreement in plural
-- [Transform Exercises →](/exercises/transform) - Practice changing forms
+- [Singular Endings](/singular) - Review singular patterns
+- [Adjectives](/adjectives) - Adjective agreement in plural
+- [Pronouns](/pronouns) - mi, ti, mu, jí, nám, vám, jim

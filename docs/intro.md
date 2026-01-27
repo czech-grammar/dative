@@ -4,34 +4,34 @@ slug: /
 title: Introduction
 ---
 
-# The Accusative Case (4. pád - Akuzativ)
+# The Dative Case (3. pád - Dativ)
 
-Welcome to the complete guide to the Czech Accusative case! This is the **most frequently used case** after the nominative - you need it for almost every sentence with a direct object.
+Welcome to the complete guide to the Czech Dative case! This is the **"to/for" case** - use it when giving, telling, or doing something **to or for someone**.
 
-## Why Master the Accusative First?
+## Why Master the Dative?
 
-The Accusative is **essential** for basic Czech:
+The Dative is **essential** for expressing:
 
-1. **Direct objects** - "I see **the dog**", "I have **a book**"
-2. **Most common case** - Used constantly in everyday speech
-3. **Motion toward** - "I'm going **to school**"
-4. **Relatively easy** - Fewer changes than other cases
+1. **Indirect objects** - "I gave the book **to him**"
+2. **Recipients** - Who receives the action
+3. **Many common verbs** - pomáhat, věřit, rozumět, děkovat
+4. **Feelings & states** - "Je mi zima" (I'm cold)
 
-Master the Accusative, and you can build most basic Czech sentences!
+Master the Dative, and you can express giving, helping, and feeling!
 
 ## What You'll Learn
 
 ### 📚 Theory
-- [Singular Endings](/singular) - The key pattern: animate vs inanimate
-- [Plural Endings](/plural) - How plurals work in accusative
-- [Prepositions](/prepositions) - na, do, pro, přes, za, o, v
-- [Adjectives](/adjectives) - Adjective agreement in accusative
-- [Pronouns](/pronouns) - mě, tě, ho, ji, nás, vás, je
+- [Singular Endings](/singular) - The key patterns by gender
+- [Plural Endings](/plural) - How plurals work in dative
+- [Prepositions](/prepositions) - k, díky, kvůli, proti, naproti
+- [Adjectives](/adjectives) - Adjective agreement in dative
+- [Pronouns](/pronouns) - mi, ti, mu, jí, nám, vám, jim
 
 ### 💪 Exercises
-- [Direct Objects](/exercises/direct-objects) - Practice with verbs
+- [Indirect Objects](/exercises/indirect-objects) - Practice with giving/telling
 - [Fill in the Blank](/exercises/fill-blank) - Complete sentences
-- [Transform](/exercises/transform) - Nominative → Accusative
+- [Transform](/exercises/transform) - Nominative → Dative
 
 ### 📋 Cheatsheets
 - [Quick Reference](/quick-reference) - All endings at a glance
@@ -43,71 +43,96 @@ Master the Accusative, and you can build most basic Czech sentences!
 
 | Question | Answer |
 |:---------|:-------|
-| **Czech name** | Akuzativ (4. pád) |
-| **Questions** | Koho? Co? (Whom? What?) |
-| **Key feature** | Used for direct objects |
-| **Main uses** | Direct object, motion toward, time duration |
-| **Difficulty** | ⭐⭐ (Medium - one tricky pattern) |
+| **Czech name** | Dativ (3. pád) |
+| **Questions** | Komu? Čemu? (To whom? To what?) |
+| **Key feature** | Used for indirect objects (receivers) |
+| **Main uses** | Giving, telling, helping, feelings |
+| **Difficulty** | ⭐⭐⭐ (Medium - palatalization in feminine) |
 
 ---
 
 ## The Core Concept
 
-:::tip Think: DIRECT OBJECT
-The Accusative answers **"Whom?"** or **"What?"** after a verb:
+:::tip Think: WHO RECEIVES?
+The Dative answers **"To whom?"** or **"For whom?"** after a verb:
 
-- Vidím **psa**. (I see **a dog**.)
-- Mám **knihu**. (I have **a book**.)
-- Znám **Prahu**. (I know **Prague**.)
-- Chci **kávu**. (I want **coffee**.)
+- Dám knihu **bratrovi**. (I give the book **to my brother**.)
+- Řekni to **mamince**. (Tell it **to mom**.)
+- Pomáhám **kamarádce**. (I help **my friend**.)
+- Věřím **tobě**. (I believe **you**.)
 :::
 
 ---
 
-## The Big Secret
+## Dative vs Accusative
 
-:::info One Pattern to Rule Them All
-**Masculine animate** nouns are the only ones that really change in accusative singular!
+:::info Don't Confuse Them!
+| Role | Case | Example |
+|:-----|:-----|:--------|
+| **Direct object** (what you act on) | Accusative | Vidím **bratra**. (I see my brother.) |
+| **Indirect object** (who receives) | Dative | Dám to **bratrovi**. (I'll give it to my brother.) |
 
-| Type | Nominative | Accusative | Change? |
-|:-----|:-----------|:-----------|:--------|
-| Masc. Animate | student | student**a** | ✅ Yes |
-| Masc. Inanimate | stůl | stůl | ❌ No |
-| Feminine | žena | žen**u** | ✅ Yes |
-| Neuter | město | město | ❌ No |
-
-Learn the masculine animate pattern, and you're 80% there!
+Many sentences have BOTH:
+- Dám **knihu** (ACC) **bratrovi** (DAT).
+- I give **the book** **to my brother**.
 :::
 
 ---
 
-## Common Verbs That Need Accusative
+## The Key Patterns
+
+| Gender | Pattern | Nom → Dat | Example |
+|:-------|:--------|:----------|:--------|
+| Masc. Animate | student | → student**ovi** | studentovi |
+| Masc. Inanimate | hrad | → hrad**u** | hradu |
+| Feminine -a | žena | → žen**ě** | ženě |
+| Feminine cons. | věc | → věc**i** | věci |
+| Neuter -o | město | → měst**u** | městu |
+| Neuter -e | moře | → moř**i** | moři |
+
+---
+
+## Dative Verbs You Must Know
+
+These verbs **require dative** (not accusative!):
 
 | Verb | Meaning | Example |
 |:-----|:--------|:--------|
-| **mít** | to have | Mám auto. |
-| **vidět** | to see | Vidím muže. |
-| **znát** | to know | Znám tu ženu. |
-| **chtít** | to want | Chci kávu. |
-| **milovat** | to love | Miluju Prahu. |
-| **potřebovat** | to need | Potřebuji pomoc. |
-| **kupovat** | to buy | Kupuji knihu. |
-| **číst** | to read | Čtu noviny. |
-| **psát** | to write | Píšu dopis. |
-| **jíst** | to eat | Jím jablko. |
-| **pít** | to drink | Piju vodu. |
+| **pomáhat** | to help | Pomáhám bratrovi. |
+| **věřit** | to believe | Věřím ti. |
+| **rozumět** | to understand | Rozumím češtině. |
+| **děkovat** | to thank | Děkuji vám. |
+| **volat** | to call | Volám doktorovi. |
+| **odpovídat** | to answer | Odpovídám učiteli. |
+| **gratulovat** | to congratulate | Gratuluju ti! |
+| **radit** | to advise | Radím studentům. |
+| **líbit se** | to be pleasing | Líbí se mi Praha. |
+| **chybět** | to be missing/miss | Chybíš mi. (I miss you.) |
+
+---
+
+## Common Expressions with Dative
+
+| Czech | Literal | Meaning |
+|:------|:--------|:--------|
+| Je **mi** zima. | It's cold **to me**. | I'm cold. |
+| Je **mi** teplo. | It's warm **to me**. | I'm warm. |
+| Je **mi** líto. | It's sorry **to me**. | I'm sorry. |
+| Je **mi** dobře. | It's good **to me**. | I feel good. |
+| Je **mi** špatně. | It's bad **to me**. | I feel sick. |
+| Jak je **ti**? | How is it **to you**? | How are you? |
 
 ---
 
 ## Start Learning
 
-Ready to master the Accusative? Start with the basics:
+Ready to master the Dative? Start with the basics:
 
 <div style={{display: 'flex', gap: '1rem', flexWrap: 'wrap', marginTop: '1.5rem'}}>
 
 [**Singular Endings →**](/singular)
 
-[**Common Prepositions →**](/prepositions)
+[**Dative Verbs →**](/prepositions)
 
 [**Jump to Exercises →**](/exercises)
 

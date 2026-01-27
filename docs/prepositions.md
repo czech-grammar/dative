@@ -1,231 +1,282 @@
 ---
 sidebar_position: 4
-title: Prepositions
+title: Prepositions & Verbs
 ---
 
-# Accusative Prepositions
+# Dative Prepositions & Verbs
 
-Several prepositions take the Accusative case, especially those expressing **motion toward** a destination.
+The Dative is used with specific prepositions and many important verbs. Learn these and you'll use the dative correctly!
 
 ---
 
-## Overview
+## Dative Prepositions
+
+These prepositions **always** take the dative case:
 
 | Preposition | Meaning | Example |
 |:------------|:--------|:--------|
-| **na** | onto, to, for | Jdu na poštu. |
-| **do** | into, to | Jdu do školy. |
-| **pro** | for (someone) | To je pro tebe. |
-| **přes** | across, over, through | Jdu přes most. |
-| **za** | behind, for (exchange) | Jdu za dům. / Děkuji za pomoc. |
-| **o** | about, by (amount) | Je o rok starší. |
-| **v/ve** | into (motion) | Věřím v Boha. |
-| **mimo** | outside of, except | Mimo město. |
-| **mezi** | between (motion) | Šel mezi stromy. |
-| **nad** | above (motion) | Letí nad město. |
-| **pod** | under (motion) | Dej to pod stůl. |
-| **před** | in front of (motion) | Jdi před dům. |
+| **k/ke** | to, toward | Jdu k doktorovi. |
+| **díky** | thanks to | Díky tobě! |
+| **kvůli** | because of, due to | Kvůli dešti zůstanu doma. |
+| **proti** | against | Jsem proti tomu. |
+| **naproti** | opposite, across from | Bydlím naproti parku. |
+| **vůči** | toward (attitude) | Je milá vůči všem. |
+| **navzdory** | despite | Navzdory problémům uspěl. |
 
 ---
 
-## Na + Accusative (Motion Toward)
+## K/Ke + Dative (To, Toward)
 
-**Na** with accusative expresses **motion toward** a surface or destination.
+The most common dative preposition! Use **k** before consonants, **ke** before difficult clusters.
 
-:::tip Na + Accusative vs Na + Locative
-- **Na + Accusative** = going **TO** (motion)
-- **Na + Locative** = being **AT** (location)
-
-| Motion (Accusative) | Location (Locative) |
-|:--------------------|:--------------------|
-| Jdu **na poštu**. (I'm going to the post office.) | Jsem **na poště**. (I'm at the post office.) |
-| Jdu **na koncert**. (I'm going to the concert.) | Jsem **na koncertě**. (I'm at the concert.) |
-:::
-
-### Common "Na" Destinations
+### Physical Movement
 
 | Czech | English |
 |:------|:--------|
-| Jdu na poštu. | I'm going to the post office. |
-| Jdu na nádraží. | I'm going to the station. |
-| Jdu na letiště. | I'm going to the airport. |
-| Jdu na univerzitu. | I'm going to the university. |
-| Jdu na koncert. | I'm going to the concert. |
-| Jdu na oběd. | I'm going to lunch. |
-| Jdu na procházku. | I'm going for a walk. |
-| Jedu na dovolenou. | I'm going on vacation. |
-| Dívám se na televizi. | I'm watching TV. |
-| Čekám na autobus. | I'm waiting for the bus. |
+| Jdu **k doktorovi**. | I'm going to the doctor. |
+| Jdi **ke stolu**. | Go to the table. |
+| Běžím **k autu**. | I'm running to the car. |
+| Přijď **k nám**. | Come to us / our place. |
+| Jdu **k mamince**. | I'm going to mom's. |
 
----
+### Figurative Meaning
 
-## Do + Genitive (Not Accusative!)
+| Czech | English |
+|:------|:--------|
+| K čemu to je? | What's it for? |
+| K ničemu. | It's useless. (for nothing) |
+| Ke všemu ještě... | On top of everything... |
+| K mému překvapení... | To my surprise... |
 
-:::warning Important!
-**Do** (into, to) takes the **Genitive**, not Accusative!
+:::tip K vs Do
+- **K + dative** = toward (person/place, not entering)
+- **Do + genitive** = into (entering a space)
 
-- Jdu do škol**y**. (to school - genitive)
-- Jdu do měst**a**. (to the city - genitive)
-- Jdu do obchod**u**. (to the shop - genitive)
-
-This is a common confusion point. When expressing motion "into" an enclosed space, use **do + Genitive**.
+| K (toward) | Do (into) |
+|:-----------|:----------|
+| Jdu **k doktorovi**. (to the doctor) | Jdu **do nemocnice**. (into the hospital) |
+| Jdu **k bance**. (toward the bank) | Jdu **do banky**. (into the bank) |
 :::
 
 ---
 
-## Pro + Accusative (For Someone)
+## Díky + Dative (Thanks To)
 
-**Pro** means "for" (intended for someone/something).
+Express gratitude or cause:
 
 | Czech | English |
 |:------|:--------|
-| To je pro tebe. | That's for you. |
-| Koupil jsem dárek pro mámu. | I bought a gift for mom. |
-| Pro koho je ta kniha? | Who is that book for? |
-| Pracuji pro firmu. | I work for a company. |
-| Hlasoval pro návrh. | He voted for the proposal. |
+| **Díky tobě!** | Thanks to you! |
+| Díky tvé pomoci jsem to zvládl. | Thanks to your help I managed. |
+| Díky počasí zůstáváme doma. | Because of the weather we're staying home. |
+| Díky Bohu! | Thank God! |
 
 ---
 
-## Přes + Accusative (Across, Through)
+## Kvůli + Dative (Because Of, Due To)
 
-**Přes** expresses movement across, over, or through something.
-
-| Czech | English |
-|:------|:--------|
-| Jdu přes most. | I'm going across the bridge. |
-| Jel přes celou Evropu. | He drove through all of Europe. |
-| Díval se přes okno. | He looked through the window. |
-| Přes den pracuji. | During the day I work. |
-| Přes víkend jedu pryč. | Over the weekend I'm going away. |
-
----
-
-## Za + Accusative
-
-**Za** has multiple meanings with accusative:
-
-### 1. Motion Behind
+Usually for negative causes or problems:
 
 | Czech | English |
 |:------|:--------|
-| Jdi za dům. | Go behind the house. |
-| Slunce zašlo za hory. | The sun went behind the mountains. |
+| Kvůli **tobě** jsem přišel pozdě. | Because of you I came late. |
+| Kvůli **dešti** zůstanu doma. | Because of the rain I'll stay home. |
+| Kvůli **práci** nemám čas. | Because of work I have no time. |
+| Kvůli **komu**? | Because of whom? |
+| Kvůli **čemu**? | Because of what? |
 
-### 2. In Exchange For / Thanks For
+:::tip Díky vs Kvůli
+- **Díky** = usually positive (thanks to)
+- **Kvůli** = usually negative (because of, blame)
 
-| Czech | English |
-|:------|:--------|
-| Děkuji za pomoc. | Thank you for the help. |
-| Děkuji za dárek. | Thank you for the gift. |
-| Zaplatil za oběd. | He paid for lunch. |
-| Koupil to za 100 korun. | He bought it for 100 crowns. |
-
-### 3. In (time duration)
-
-| Czech | English |
-|:------|:--------|
-| Za hodinu. | In an hour. |
-| Za týden. | In a week. |
-| Za chvíli. | In a moment. |
-
----
-
-## O + Accusative (By an Amount)
-
-**O** with accusative expresses a difference or comparison.
-
-| Czech | English |
-|:------|:--------|
-| Je o rok starší. | He's a year older. |
-| Je o dva roky mladší. | She's two years younger. |
-| O kolik to stojí víc? | How much more does it cost? |
-| O centimetr delší. | A centimeter longer. |
-
-:::tip O + Accusative vs O + Locative
-- **O + Accusative** = by (an amount): Je **o rok** starší.
-- **O + Locative** = about (topic): Mluvíme **o filmu**.
+| Díky (positive) | Kvůli (negative) |
+|:----------------|:-----------------|
+| Díky tobě jsem vyhrál! | Kvůli tobě jsem prohrál! |
 :::
 
 ---
 
-## Motion Prepositions (Dual Case)
-
-These prepositions take **Accusative for motion** and **Locative/Instrumental for location**:
-
-| Preposition | + Accusative (motion) | + Loc./Instr. (location) |
-|:------------|:----------------------|:-------------------------|
-| **na** | Jdu **na stůl**. (onto) | Je **na stole**. (on) |
-| **v/ve** | Věřím **v Boha**. (into/belief) | Jsem **v Praze**. (in) |
-| **nad** | Letí **nad město**. (above-motion) | Letí **nad městem**. (above) |
-| **pod** | Dej to **pod stůl**. (under-motion) | Je **pod stolem**. (under) |
-| **před** | Jdi **před dům**. (in front-motion) | Stojí **před domem**. (in front) |
-| **za** | Jdi **za dům**. (behind-motion) | Je **za domem**. (behind) |
-| **mezi** | Jdi **mezi stromy**. (between-motion) | Je **mezi stromy**. (between) |
-
----
-
-## Time Expressions with Accusative
-
-| Expression | Meaning |
-|:-----------|:--------|
-| každý den | every day |
-| každou noc | every night |
-| celý den | the whole day |
-| celou noc | the whole night |
-| příští týden | next week |
-| minulou sobotu | last Saturday |
-| za hodinu | in an hour |
-| přes noc | overnight |
-
----
-
-## Common Phrases
+## Proti + Dative (Against)
 
 | Czech | English |
 |:------|:--------|
-| Čekám na tebe. | I'm waiting for you. |
-| Dívám se na film. | I'm watching a movie. |
-| Těším se na víkend. | I'm looking forward to the weekend. |
-| Děkuji za všechno. | Thank you for everything. |
-| Jdu na pivo. | I'm going for a beer. |
-| Jdu pro chleba. | I'm going to get bread. |
-| Za jak dlouho? | In how long? |
-| Pro všechny případy. | Just in case. |
+| Jsem **proti tomu**. | I'm against it. |
+| Hrají **proti nám**. | They're playing against us. |
+| Lék **proti bolesti**. | Medicine against pain. |
+| Nemám nic **proti tobě**. | I have nothing against you. |
+| Bojovat **proti nepříteli**. | To fight against the enemy. |
+
+---
+
+## Naproti + Dative (Opposite, Across From)
+
+| Czech | English |
+|:------|:--------|
+| Bydlím **naproti parku**. | I live opposite the park. |
+| Sedí **naproti mně**. | He's sitting across from me. |
+| **Naproti tomu**... | On the other hand... |
+| Restaurace je **naproti škole**. | The restaurant is opposite the school. |
+
+---
+
+## Vůči + Dative (Toward - Attitude)
+
+Express attitude or behavior toward someone:
+
+| Czech | English |
+|:------|:--------|
+| Je milá **vůči všem**. | She's kind toward everyone. |
+| Jeho postoj **vůči práci**. | His attitude toward work. |
+| Respekt **vůči rodičům**. | Respect toward parents. |
+| Povinnosti **vůči státu**. | Obligations toward the state. |
+
+---
+
+## Dative Verbs (No Preposition Needed!)
+
+These verbs take **dative objects directly** - no preposition:
+
+### Essential Dative Verbs
+
+| Verb | Meaning | Example |
+|:-----|:--------|:--------|
+| **pomáhat** | to help | Pomáhám **bratrovi**. |
+| **věřit** | to believe | Věřím **ti**. |
+| **rozumět** | to understand | Rozumím **češtině**. |
+| **děkovat** | to thank | Děkuji **vám**. |
+| **odpovídat** | to answer | Odpovídám **učiteli**. |
+| **volat** | to call | Volám **doktorovi**. |
+| **gratulovat** | to congratulate | Gratuluju **ti**! |
+| **blahopřát** | to wish well | Blahopřeji **mamince**. |
+| **radit** | to advise | Radím **studentům**. |
+| **ubližovat** | to hurt | Neubližuj **zvířatům**. |
+| **vadit** | to bother | Vadí **mi** to. |
+| **chybět** | to be missing | Chybíš **mi**. |
+| **patřit** | to belong | To patří **bratrovi**. |
+
+### Verbs of Liking/Pleasing
+
+| Verb | Meaning | Example |
+|:-----|:--------|:--------|
+| **líbit se** | to be pleasing | Líbí se **mi** Praha. |
+| **chutnat** | to taste (good) | Chutná **mi** to. |
+| **hodit se** | to suit | Hodí se **ti** to? |
+
+:::tip These Are Backwards!
+Czech says "It pleases TO ME" not "I like it":
+- **Líbí se mi Praha.** = Prague pleases to-me. (I like Prague.)
+- **Chutná mi to.** = It tastes to-me. (I like it / It tastes good.)
+:::
+
+---
+
+## Impersonal Expressions with Dative
+
+Express states and feelings:
+
+| Czech | Literal | Natural English |
+|:------|:--------|:----------------|
+| Je **mi** zima. | It's cold to-me. | I'm cold. |
+| Je **mi** teplo. | It's warm to-me. | I'm warm. |
+| Je **mi** horko. | It's hot to-me. | I'm hot. |
+| Je **mi** dobře. | It's good to-me. | I feel good. |
+| Je **mi** špatně. | It's bad to-me. | I feel sick. |
+| Je **mi** líto. | It's sorry to-me. | I'm sorry. |
+| Je **mi** smutno. | It's sad to-me. | I'm sad. |
+| Je **mi** jedno. | It's one to-me. | I don't care. |
+| Jak je **ti**? | How is it to-you? | How are you? |
+
+### With "Se Zdá" (It Seems)
+
+| Czech | English |
+|:------|:--------|
+| Zdá se **mi**, že... | It seems to me that... |
+| Nezdá se **ti** to divné? | Doesn't it seem strange to you? |
+
+---
+
+## Giving and Telling Verbs
+
+These verbs take **accusative for the thing** and **dative for the person**:
+
+| Verb | Pattern | Example |
+|:-----|:--------|:--------|
+| **dát** | give ACC to DAT | Dám **knihu** (ACC) **bratrovi** (DAT). |
+| **říct** | tell ACC to DAT | Řekni **to** (ACC) **mamince** (DAT). |
+| **koupit** | buy ACC for DAT | Koupím **dárek** (ACC) **kamarádce** (DAT). |
+| **poslat** | send ACC to DAT | Pošlu **dopis** (ACC) **rodičům** (DAT). |
+| **ukázat** | show ACC to DAT | Ukážu **fotky** (ACC) **přátelům** (DAT). |
+| **půjčit** | lend ACC to DAT | Půjčím **auto** (ACC) **bratrovi** (DAT). |
+| **vrátit** | return ACC to DAT | Vrátím **knihu** (ACC) **knihovně** (DAT). |
+
+---
+
+## Question Words
+
+| Czech | English | Example |
+|:------|:--------|:--------|
+| **Komu?** | To whom? | Komu to dáš? |
+| **Čemu?** | To what? | Čemu věříš? |
+| **K čemu?** | What for? | K čemu to potřebuješ? |
 
 ---
 
 ## Practice
 
-Choose the correct preposition:
+Fill in with the correct form:
 
-1. Jdu ___ školu. (to school) - na/do
-2. Děkuji ___ pomoc. (for help) - za/pro
-3. To je ___ tebe. (for you) - za/pro
-4. Jdu ___ most. (across the bridge) - přes/nad
-5. Je o rok ___. (older by) - starší
-6. Čekám ___ autobus. (for the bus) - na/pro
-7. ___ hodinu budu doma. (in an hour) - Za/O
-8. Jdu ___ koncert. (to the concert) - na/do
+1. Jdu k ___ (doktor) →
+2. Díky ___ (ty) jsem vyhrál →
+3. Pomáhám ___ (matka) →
+4. Kvůli ___ (práce) nemám čas →
+5. Věřím ___ (on) →
+6. Je ___ (já) zima →
+7. Líbí se ___ (ona) Praha →
+8. Děkuji ___ (vy) →
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Jdu **do** školy. (do + genitive for enclosed spaces)
-2. Děkuji **za** pomoc. (za = thanks for)
-3. To je **pro** tebe. (pro = intended for)
-4. Jdu **přes** most. (přes = across)
-5. Je o rok **starší**. (o + accusative for comparison)
-6. Čekám **na** autobus. (na = waiting for)
-7. **Za** hodinu budu doma. (za = in time)
-8. Jdu **na** koncert. (na for events)
+1. Jdu k **doktorovi** (masc. animate → -ovi)
+2. Díky **tobě** jsem vyhrál (pronoun)
+3. Pomáhám **matce** (fem. -a, k→c palatalization)
+4. Kvůli **práci** nemám čas (fem. -e → -i)
+5. Věřím **mu** / **jemu** (pronoun - him)
+6. Je **mi** zima (pronoun - me)
+7. Líbí se **jí** Praha (pronoun - her)
+8. Děkuji **vám** (pronoun - you formal/plural)
 
 </details>
+
+---
+
+## Common Mistakes
+
+:::warning Watch Out!
+
+**❌ Jdu do doktorovi** (wrong preposition!)
+**✅ Jdu k doktorovi** (k + dative for people)
+
+---
+
+**❌ Pomáhám bratrů** (wrong case!)
+**✅ Pomáhám bratrovi** (pomáhat + dative)
+
+---
+
+**❌ Díky tebe** (wrong form!)
+**✅ Díky tobě** (dative after díky)
+
+---
+
+**❌ Já jsem zima** (wrong construction!)
+**✅ Je mi zima** (impersonal + dative)
+:::
 
 ---
 
 ## Next Steps
 
 - [Singular Endings](/singular) - Review noun forms
-- [Adjectives](/adjectives) - Adjective agreement with prepositions
-- [Exercises](/exercises) - Practice preposition usage
+- [Pronouns](/pronouns) - mi, ti, mu, jí, nám, vám, jim
+- [Exercises](/exercises) - Practice dative usage

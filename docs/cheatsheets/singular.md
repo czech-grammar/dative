@@ -3,101 +3,116 @@ sidebar_position: 2
 title: Singular Cheatsheet
 ---
 
-# Accusative Singular Cheatsheet
-
----
-
-## Visual Cheatsheet
-
-![Accusative Singular Cheatsheet](/img/accusative-singular-cheatsheet.svg)
+# Dative Singular Cheatsheet
 
 ---
 
 ## At a Glance
 
-| Type | Nominative | Accusative | Example |
-|:-----|:-----------|:-----------|:--------|
-| **Masc. Animate Hard** | student | student**a** | Vidím studenta. |
-| **Masc. Animate Soft** | muž | muž**e** | Vidím muže. |
-| **Masc. Inanimate** | stůl | stůl | Vidím stůl. |
-| **Feminine -a** | žena | žen**u** | Vidím ženu. |
-| **Feminine -e** | růže | růž**i** | Vidím růži. |
-| **Feminine cons.** | věc | věc | Vidím věc. |
-| **Neuter -o** | město | město | Vidím město. |
-| **Neuter -e** | moře | moře | Vidím moře. |
-| **Neuter -í** | nádraží | nádraží | Vidím nádraží. |
+| Type | Nominative | Dative | Example |
+|:-----|:-----------|:-------|:--------|
+| **Masc. Animate** | student | student**ovi** | Dám to studentovi. |
+| **Masc. Inanimate** | hrad | hrad**u** | Jdu k hradu. |
+| **Feminine -a** | žena | žen**ě** | Pomáhám ženě. |
+| **Feminine -a (k/h)** | matka | matc**e** | Pomáhám matce. |
+| **Feminine -e** | růže | růž**i** | Dávám vodu růži. |
+| **Feminine cons.** | věc | věc**i** | Nevěřím věci. |
+| **Neuter -o** | město | měst**u** | Jdu k městu. |
+| **Neuter -e** | moře | moř**i** | Jdu k moři. |
+| **Neuter -í** | nádraží | nádraž**í** | Jdu k nádraží. |
 
 ---
 
-## Masculine Animate
+## Masculine Animate → **-ovi**
 
-### Hard Consonants → add **-a**
-
-| Nom. | Acc. | Example |
+| Nom. | Dat. | Example |
 |:-----|:-----|:--------|
-| student | student**a** | Vidím studenta. |
-| pes | ps**a** | Mám psa. |
-| bratr | bratr**a** | Znám bratra. |
-| Petr | Petr**a** | Znám Petra. |
-| doktor | doktor**a** | Potřebuji doktora. |
+| student | student**ovi** | Dám to studentovi. |
+| bratr | bratr**ovi** | Pomáhám bratrovi. |
+| pes | ps**ovi** | Dávám jídlo psovi. |
+| učitel | učitel**ovi** | Děkuji učitelovi. |
+| muž | muž**ovi** | Věřím mužovi. |
 
-### Soft Consonants → add **-e**
-
-| Nom. | Acc. | Example |
-|:-----|:-----|:--------|
-| muž | muž**e** | Vidím muže. |
-| učitel | učitel**e** | Znám učitele. |
-| přítel | přítel**e** | Mám přítele. |
+:::tip -ovi is always safe!
+For masculine animate, **-ovi** works for both hard and soft stems.
+:::
 
 ---
 
-## Masculine Inanimate = NO CHANGE
+## Masculine Inanimate → **-u** / **-i**
 
-| Nom. | Acc. | Example |
+| Nom. | Dat. | Example |
 |:-----|:-----|:--------|
-| stůl | stůl | Vidím stůl. |
-| dům | dům | Mám dům. |
-| počítač | počítač | Potřebuji počítač. |
+| hrad | hrad**u** | Jdu k hradu. |
+| dům | dom**u** | Blížíme se k domu. |
+| stroj | stroj**i** | Přistup ke stroji. |
 
 ---
 
-## Feminine
+## Feminine → **-ě** with Palatalization
 
-### -a Nouns → **-u**
+:::warning Palatalization Rules
+| Before -ě | Changes to | Example |
+|:----------|:-----------|:--------|
+| **k** | **c** | matka → matce |
+| **h** | **z** | kniha → knize |
+| **ch** | **š** | moucha → mouše |
+| **r** | **ř** | sestra → sestře |
+:::
 
-| Nom. | Acc. | Example |
+### Common Examples
+
+| Nom. | Dat. | Why |
+|:-----|:-----|:----|
+| žena | žen**ě** | Regular |
+| matka | matc**e** | k → c |
+| sestra | sestř**e** | r → ř |
+| kniha | kniz**e** | h → z |
+| Praha | Praz**e** | h → z |
+| babička | babičc**e** | k → c |
+
+### Soft Feminine → **-i**
+
+| Nom. | Dat. | Example |
 |:-----|:-----|:--------|
-| žena | žen**u** | Vidím ženu. |
-| kniha | knih**u** | Čtu knihu. |
-| káva | káv**u** | Chci kávu. |
-| Praha | Prah**u** | Znám Prahu. |
-
-### -e Nouns → **-i**
-
-| Nom. | Acc. | Example |
-|:-----|:-----|:--------|
-| růže | růž**i** | Mám růži. |
-| restaurace | restaurac**i** | Hledám restauraci. |
-| práce | prác**i** | Mám práci. |
-
-### Consonant Nouns = NO CHANGE
-
-| Nom. | Acc. | Example |
-|:-----|:-----|:--------|
-| věc | věc | Vidím věc. |
-| noc | noc | Miluju noc. |
+| růže | růž**i** | Dávám vodu růži. |
+| práce | prác**i** | Věnuji se práci. |
+| věc | věc**i** | Nevěřím věci. |
 
 ---
 
-## Neuter = NO CHANGE
+## Neuter → **-u** / **-i**
 
-| Nom. | Acc. | Example |
+| Nom. | Dat. | Example |
 |:-----|:-----|:--------|
-| město | město | Znám město. |
-| auto | auto | Mám auto. |
-| pivo | pivo | Chci pivo. |
-| moře | moře | Vidím moře. |
-| nádraží | nádraží | Hledám nádraží. |
+| město | měst**u** | Jdu k městu. |
+| auto | aut**u** | Jdu k autu. |
+| moře | moř**i** | Jdu k moři. |
+| nádraží | nádraž**í** | Jdu k nádraží. |
+
+---
+
+## Memory Trick
+
+```
+┌─────────────────────────────────────────────┐
+│           DATIVE SINGULAR                   │
+├─────────────────────────────────────────────┤
+│                                             │
+│   MASCULINE ANIMATE: -OVI                   │
+│   (studentovi, bratrovi, psovi)             │
+│                                             │
+│   MASCULINE INANIMATE: -U                   │
+│   (hradu, domu, městu)                      │
+│                                             │
+│   FEMININE -A: -Ě (with palatalization!)    │
+│   (ženě, matce, knize, Praze)               │
+│                                             │
+│   SOFT PATTERNS: -I                         │
+│   (růži, věci, moři)                        │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 ---
 

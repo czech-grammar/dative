@@ -3,15 +3,15 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Czech Accusative Case',
-  tagline: 'Master the 4th case - direct objects, motion & more',
+  title: 'Czech Dative Case',
+  tagline: 'Master the 3rd case - indirect objects, recipients & more',
   favicon: 'img/favicon.ico',
 
   url: 'https://grammar.ilearnczech.com',
-  baseUrl: '/accusative/',
+  baseUrl: '/dative/',
 
   organizationName: 'czech-grammar',
-  projectName: 'accusative',
+  projectName: 'dative',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -39,14 +39,14 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/accusative-social-card.png',
+    image: 'img/dative-social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Accusative Case',
+      title: 'Dative Case',
       logo: {
-        alt: 'Accusative Logo',
+        alt: 'Dative Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -100,7 +100,7 @@ const config: Config = {
           title: 'More',
           items: [
             { label: 'YouTube', href: 'https://youtube.com/ilearnczechcom' },
-            { label: 'GitHub', href: 'https://github.com/czech-grammar/accusative' },
+            { label: 'GitHub', href: 'https://github.com/czech-grammar/dative' },
           ],
         },
       ],

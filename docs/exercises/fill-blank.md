@@ -5,105 +5,140 @@ title: Fill in the Blank
 
 # Exercise: Fill in the Blank
 
-Complete each sentence with the correct Accusative form.
+Complete each sentence with the correct Dative form.
 
 ---
 
-## Level 1: Basic Nouns
+## Level 1: Masculine Animate
 
-1. Vidím ___ (student). *(I see a student.)*
-2. Mám ___ (kniha). *(I have a book.)*
-3. Chci ___ (káva). *(I want coffee.)*
-4. Znám ___ (Praha). *(I know Prague.)*
-5. Vidím ___ (pes). *(I see a dog.)*
-6. Mám ___ (auto). *(I have a car.)*
-7. Potřebuji ___ (telefon). *(I need a phone.)*
-8. Vidím ___ (žena). *(I see a woman.)*
-9. Mám ___ (bratr). *(I have a brother.)*
-10. Chci ___ (pivo). *(I want a beer.)*
+1. Dám knihu ___ (student). *(I give the book to a student.)*
+2. Pomáhám ___ (bratr). *(I help my brother.)*
+3. Řekni to ___ (otec). *(Tell it to dad.)*
+4. Věřím ___ (doktor). *(I believe the doctor.)*
+5. Děkuji ___ (učitel). *(I thank the teacher.)*
+6. Dávám jídlo ___ (pes). *(I give food to the dog.)*
+7. Píšu ___ (kamarád). *(I write to a friend.)*
+8. Volám ___ (Petr). *(I call Petr.)*
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Vidím **studenta**. (masc. animate → -a)
-2. Mám **knihu**. (fem. -a → -u)
-3. Chci **kávu**. (fem. -a → -u)
-4. Znám **Prahu**. (fem. -a → -u)
-5. Vidím **psa**. (masc. animate → -a)
-6. Mám **auto**. (neuter → no change)
-7. Potřebuji **telefon**. (masc. inan. → no change)
-8. Vidím **ženu**. (fem. -a → -u)
-9. Mám **bratra**. (masc. animate → -a)
-10. Chci **pivo**. (neuter → no change)
+1. Dám knihu **studentovi**. (masc. animate → -ovi)
+2. Pomáhám **bratrovi**. (masc. animate → -ovi)
+3. Řekni to **otcovi**. (masc. animate → -ovi)
+4. Věřím **doktorovi**. (masc. animate → -ovi)
+5. Děkuji **učitelovi**. (masc. animate → -ovi)
+6. Dávám jídlo **psovi**. (masc. animate → -ovi)
+7. Píšu **kamarádovi**. (masc. animate → -ovi)
+8. Volám **Petrovi**. (masc. animate → -ovi)
 
 </details>
 
 ---
 
-## Level 2: Soft Consonants
+## Level 2: Feminine with Palatalization
 
-1. Vidím ___ (muž). *(I see a man.)*
-2. Znám ___ (učitel). *(I know a teacher.)*
-3. Mám ___ (přítel). *(I have a friend.)*
-4. Hledám ___ (prodavač). *(I'm looking for a salesman.)*
-5. Vidím ___ (lékař). *(I see a doctor.)*
+1. Pomáhám ___ (matka). *(I help mom.)*
+2. Dám to ___ (sestra). *(I give it to my sister.)*
+3. Píšu ___ (babička). *(I write to grandma.)*
+4. Jdu k ___ (banka). *(I'm going to the bank.)*
+5. Blížíme se k ___ (Praha). *(We're approaching Prague.)*
+6. Dám to ___ (kamarádka). *(I give it to my friend.)*
+7. Jdu k ___ (kniha). *(I'm going toward the book.)*
+8. Rozumím ___ (čeština). *(I understand Czech.)*
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Vidím **muže**. (soft → -e)
-2. Znám **učitele**. (soft → -e)
-3. Mám **přítele**. (soft → -e)
-4. Hledám **prodavače**. (soft → -e)
-5. Vidím **lékaře**. (soft → -e)
+1. Pomáhám **matce**. (fem. -a, k→c → -e)
+2. Dám to **sestře**. (fem. -a, r→ř → -e)
+3. Píšu **babičce**. (fem. -a, k→c → -e)
+4. Jdu k **bance**. (fem. -a, k→c → -e)
+5. Blížíme se k **Praze**. (fem. -a, h→z → -e)
+6. Dám to **kamarádce**. (fem. -a, k→c → -e)
+7. Jdu ke **knize**. (fem. -a, h→z → -e)
+8. Rozumím **češtině**. (fem. -a → -ě)
 
 </details>
 
 ---
 
-## Level 3: With Prepositions
+## Level 3: Soft Patterns and Neuter
 
-1. Čekám na ___ (autobus). *(I'm waiting for the bus.)*
-2. Dívám se na ___ (film). *(I'm watching a movie.)*
-3. Jdu na ___ (pošta). *(I'm going to the post office.)*
-4. To je pro ___ (ty). *(That's for you.)*
-5. Děkuji za ___ (pomoc). *(Thanks for the help.)*
-6. Těším se na ___ (víkend). *(I'm looking forward to the weekend.)*
-7. Jdu pro ___ (chleba). *(I'm going to get bread.)*
-8. Čekám na ___ (ona). *(I'm waiting for her.)*
+1. Dávám vodu ___ (růže). *(I give water to the rose.)*
+2. Věnuji se ___ (práce). *(I dedicate myself to work.)*
+3. Nevěřím té ___ (věc). *(I don't believe that thing.)*
+4. Jdu k ___ (moře). *(I'm going to the sea.)*
+5. Blížíme se k ___ (město). *(We're approaching the city.)*
+6. Jdu k ___ (auto). *(I'm going to the car.)*
+7. Jdu k ___ (nádraží). *(I'm going to the station.)*
+8. Jdu k ___ (hrad). *(I'm going to the castle.)*
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Čekám na **autobus**. (masc. inan. → no change)
-2. Dívám se na **film**. (masc. inan. → no change)
-3. Jdu na **poštu**. (fem. -a → -u)
-4. To je pro **tebe**. (pronoun)
-5. Děkuji za **pomoc**. (fem. cons. → no change)
-6. Těším se na **víkend**. (masc. inan. → no change)
-7. Jdu pro **chleba**. (masc. inan. → no change)
-8. Čekám na **ni**. (pronoun ona → ni after prep.)
+1. Dávám vodu **růži**. (fem. -e → -i)
+2. Věnuji se **práci**. (fem. -e → -i)
+3. Nevěřím té **věci**. (fem. cons. → -i)
+4. Jdu k **moři**. (neut. -e → -i)
+5. Blížíme se k **městu**. (neut. -o → -u)
+6. Jdu k **autu**. (neut. -o → -u)
+7. Jdu k **nádraží**. (neut. -í → -í, no change)
+8. Jdu k **hradu**. (masc. inan. → -u)
 
 </details>
 
 ---
 
-## Level 4: Plurals
+## Level 4: Pronouns
 
-1. Vidím ___ (studenti). *(I see students.)*
-2. Mám ___ (knihy). *(I have books.)*
-3. Znám ___ (učitelé). *(I know teachers.)*
-4. Vidím ___ (psi). *(I see dogs.)*
-5. Mám ___ (auta). *(I have cars.)*
+1. Dej to ___ (já). *(Give it to me.)*
+2. Řeknu ___ (ty) pravdu. *(I'll tell you the truth.)*
+3. Pomáhám ___ (on). *(I help him.)*
+4. Věřím ___ (ona). *(I believe her.)*
+5. Píšu ___ (my). *(I write to us.)*
+6. Jak je ___ (vy)? *(How are you?)*
+7. Děkuji ___ (oni). *(I thank them.)*
+8. Je ___ (já) zima. *(I'm cold.)*
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Vidím **studenty**. (masc. anim. pl. → -y)
-2. Mám **knihy**. (fem. pl. → no change)
-3. Znám **učitele**. (masc. anim. soft pl. → -e)
-4. Vidím **psy**. (masc. anim. pl. → -y)
-5. Mám **auta**. (neuter pl. → no change)
+1. Dej to **mi**. (pronoun)
+2. Řeknu **ti** pravdu. (pronoun)
+3. Pomáhám **mu**. (pronoun)
+4. Věřím **jí**. (pronoun)
+5. Píšu **nám**. (pronoun)
+6. Jak je **vám**? (pronoun)
+7. Děkuji **jim**. (pronoun)
+8. Je **mi** zima. (pronoun)
+
+</details>
+
+---
+
+## Level 5: Plurals
+
+1. Dám knihy ___ (studenti). *(I give books to students.)*
+2. Pomáhám ___ (ženy). *(I help women.)*
+3. Píšu ___ (rodiče). *(I write to parents.)*
+4. Jezdíme k ___ (města). *(We travel to cities.)*
+5. Dávám vodu ___ (růže). *(I give water to roses.)*
+6. Věřím ___ (přátelé). *(I believe friends.)*
+7. Děkuji ___ (učitelé). *(I thank teachers.)*
+8. Jdu k ___ (děti). *(I'm going to the children.)*
+
+<details>
+<summary>**Check Answers**</summary>
+
+1. Dám knihy **studentům**. (masc. pl. → -ům)
+2. Pomáhám **ženám**. (fem. -a pl. → -ám)
+3. Píšu **rodičům**. (masc. pl. → -ům)
+4. Jezdíme k **městům**. (neut. -o pl. → -ům)
+5. Dávám vodu **růžím**. (fem. -e pl. → -ím)
+6. Věřím **přátelům**. (masc. pl. → -ům)
+7. Děkuji **učitelům**. (masc. pl. → -ům)
+8. Jdu k **dětem**. (neut. pl. → -ům)
 
 </details>
 
@@ -111,6 +146,6 @@ Complete each sentence with the correct Accusative form.
 
 ## Next Steps
 
-- [Direct Objects →](/exercises/direct-objects)
+- [Indirect Objects →](/exercises/indirect-objects)
 - [Transform Drills →](/exercises/transform)
 - [Interactive Quizzes →](/exercises/interactive)

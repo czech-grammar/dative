@@ -22,7 +22,7 @@ const sidebars: SidebarsConfig = {
         id: 'exercises/index',
       },
       items: [
-        'exercises/direct-objects',
+        'exercises/indirect-objects',
         'exercises/fill-blank',
         'exercises/transform',
         'exercises/interactive',

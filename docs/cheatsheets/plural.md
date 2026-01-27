@@ -3,85 +3,102 @@ sidebar_position: 3
 title: Plural Cheatsheet
 ---
 
-# Accusative Plural Cheatsheet
-
----
-
-## Visual Cheatsheet
-
-![Accusative Plural Cheatsheet](/img/accusative-plural-cheatsheet.svg)
+# Dative Plural Cheatsheet
 
 ---
 
 ## At a Glance
 
-| Type | Nom. Plural | Acc. Plural | Change? |
+| Type | Nom. Plural | Dat. Plural | Example |
 |:-----|:------------|:------------|:--------|
-| **Masc. Animate Hard** | studenti | student**y** | ✅ -y |
-| **Masc. Animate Soft** | muži | muž**e** | ✅ -e |
-| **Masc. Inanimate** | stoly | stoly | ❌ same |
-| **Feminine** | ženy | ženy | ❌ same |
-| **Neuter** | města | města | ❌ same |
+| **Masculine** | studenti | student**ům** | Dám to studentům. |
+| **Feminine -a** | ženy | žen**ám** | Pomáhám ženám. |
+| **Feminine -e** | růže | růž**ím** | Dávám vodu růžím. |
+| **Neuter -o** | města | měst**ům** | Jezdíme k městům. |
+| **Neuter -e** | moře | moř**ím** | Jezdíme k mořím. |
 
 ---
 
-## Masculine Animate - CHANGES
+## The Three Endings
 
-### Hard Pattern → **-y**
-
-| Nom. Sg. | Nom. Pl. | Acc. Pl. | Example |
-|:---------|:---------|:---------|:--------|
-| student | studenti | student**y** | Vidím studenty. |
-| pes | psi | ps**y** | Vidím psy. |
-| bratr | bratři | bratr**y** | Mám bratry. |
-| pán | páni | pán**y** | Znám pány. |
-
-### Soft Pattern → **-e**
-
-| Nom. Sg. | Nom. Pl. | Acc. Pl. | Example |
-|:---------|:---------|:---------|:--------|
-| muž | muži | muž**e** | Vidím muže. |
-| učitel | učitelé | učitel**e** | Znám učitele. |
-| přítel | přátelé | přítel**e** | Mám přátele. |
-
----
-
-## Everything Else = NO CHANGE
-
-### Masculine Inanimate
-
-| Nom. Sg. | Nom. Pl. | Acc. Pl. |
-|:---------|:---------|:---------|
-| stůl | stoly | stoly |
-| dům | domy | domy |
-| hrad | hrady | hrady |
-
-### Feminine
-
-| Nom. Sg. | Nom. Pl. | Acc. Pl. |
-|:---------|:---------|:---------|
-| žena | ženy | ženy |
-| kniha | knihy | knihy |
-| růže | růže | růže |
-| restaurace | restaurace | restaurace |
-
-### Neuter
-
-| Nom. Sg. | Nom. Pl. | Acc. Pl. |
-|:---------|:---------|:---------|
-| město | města | města |
-| auto | auta | auta |
-| moře | moře | moře |
-| nádraží | nádraží | nádraží |
-
----
-
-## Summary
-
-:::tip The Simple Rule
-- **Masculine animate** → Changes (-y or -e)
-- **Everything else** → Same as nominative plural
+:::tip Simple!
+| Ending | Used For | Examples |
+|:-------|:---------|:---------|
+| **-ům** | Masculine, Neuter -o | studentům, městům |
+| **-ám** | Feminine -a | ženám, školám |
+| **-ím** | Soft patterns | růžím, mořím |
 :::
+
+---
+
+## Masculine Plural → **-ům**
+
+| Nom. Sg. | Dat. Pl. | Example |
+|:---------|:---------|:--------|
+| student | student**ům** | Dám úkol studentům. |
+| bratr | bratr**ům** | Pomáhám bratrům. |
+| hrad | hrad**ům** | Jezdíme k hradům. |
+| muž | muž**ům** | Řekni to mužům. |
+
+---
+
+## Feminine Plural
+
+### -a Nouns → **-ám**
+
+| Nom. Sg. | Dat. Pl. | Example |
+|:---------|:---------|:--------|
+| žena | žen**ám** | Pomáhám ženám. |
+| matka | matk**ám** | Děkuji matkám. |
+| škola | škol**ám** | Jezdíme ke školám. |
+
+### -e Nouns → **-ím**
+
+| Nom. Sg. | Dat. Pl. | Example |
+|:---------|:---------|:--------|
+| růže | růž**ím** | Dávám vodu růžím. |
+| restaurace | restaurac**ím** | Blížíme se k restauracím. |
+
+---
+
+## Neuter Plural
+
+### -o Nouns → **-ům**
+
+| Nom. Sg. | Dat. Pl. | Example |
+|:---------|:---------|:--------|
+| město | měst**ům** | Jezdíme k městům. |
+| auto | aut**ům** | Blížíme se k autům. |
+
+### -e/-í Nouns → **-ím**
+
+| Nom. Sg. | Dat. Pl. | Example |
+|:---------|:---------|:--------|
+| moře | moř**ím** | Jezdíme k mořím. |
+| nádraží | nádraž**ím** | Jezdíme k nádražím. |
+
+---
+
+## Memory Trick
+
+```
+┌─────────────────────────────────────────────┐
+│           DATIVE PLURAL                     │
+├─────────────────────────────────────────────┤
+│                                             │
+│   THREE ENDINGS - THAT'S IT!                │
+│                                             │
+│   -ŮM = Masculine + Neuter -o               │
+│         (studentům, městům)                 │
+│                                             │
+│   -ÁM = Feminine -a                         │
+│         (ženám, matkám)                     │
+│                                             │
+│   -ÍM = Soft patterns                       │
+│         (růžím, mořím)                      │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 ---
 

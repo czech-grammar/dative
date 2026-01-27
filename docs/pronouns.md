@@ -3,24 +3,24 @@ sidebar_position: 6
 title: Pronouns
 ---
 
-# Personal Pronouns in Accusative
+# Personal Pronouns in Dative
 
-Personal pronouns are **very common** in accusative - you use them constantly!
+Dative pronouns are **essential** - you use them constantly for expressing "to me," "for you," "to him," etc.
 
 ---
 
 ## Quick Reference
 
-| Person | Nominative | Accusative (full) | Accusative (short) |
-|:-------|:-----------|:------------------|:-------------------|
-| I | já | **mne** | **mě** |
-| you (sg.) | ty | **tebe** | **tě** |
-| he | on | **jeho/něho** | **ho/něj** |
-| she | ona | **ji** | **ji** |
-| it | ono | **je/ně** | **je/ně** |
-| we | my | **nás** | **nás** |
-| you (pl.) | vy | **vás** | **vás** |
-| they | oni/ony/ona | **je/ně** | **je/ně** |
+| Person | Nominative | Dative (short) | Dative (long) |
+|:-------|:-----------|:---------------|:--------------|
+| I | já | **mi** | **mně** |
+| you (sg.) | ty | **ti** | **tobě** |
+| he | on | **mu** | **jemu/němu** |
+| she | ona | **jí** | **jí/ní** |
+| it | ono | **mu** | **jemu/němu** |
+| we | my | **nám** | **nám** |
+| you (pl.) | vy | **vám** | **vám** |
+| they | oni/ony | **jim** | **jim/nim** |
 
 ---
 
@@ -30,20 +30,20 @@ Czech has **short (clitic)** and **long (stressed)** forms:
 
 | | Short (unstressed) | Long (stressed) |
 |:--|:-------------------|:----------------|
-| me | **mě** | **mne** |
-| you | **tě** | **tebe** |
-| him | **ho** | **jeho** |
-| her | **ji** | **ji** |
-| us | **nás** | **nás** |
-| you (pl) | **vás** | **vás** |
-| them | **je** | **je** |
+| to me | **mi** | **mně** |
+| to you | **ti** | **tobě** |
+| to him | **mu** | **jemu** |
+| to her | **jí** | **jí** |
+| to us | **nám** | **nám** |
+| to you (pl) | **vám** | **vám** |
+| to them | **jim** | **jim** |
 
 :::tip When to Use Which?
 - **Short forms** = normal, everyday usage
 - **Long forms** = emphasis, contrast, after prepositions
 
-*Vidím **tě**.* (I see you - normal)
-*Vidím **tebe**, ne jeho!* (I see YOU, not him! - emphasis)
+*Dám **ti** to.* (I'll give it to you - normal)
+*Dám to **tobě**, ne jemu!* (I'll give it to YOU, not him! - emphasis)
 :::
 
 ---
@@ -54,151 +54,188 @@ After prepositions, third-person pronouns add **n-**:
 
 | Without preposition | After preposition |
 |:--------------------|:------------------|
-| Vidím **ho**. | Čekám na **něho/něj**. |
-| Vidím **ji**. | Čekám na **ni**. |
-| Vidím **je**. | Čekám na **ně**. |
+| Dám **mu** to. | Jdu k **němu**. |
+| Dám **jí** to. | Jdu k **ní**. |
+| Dám **jim** to. | Jdu k **nim**. |
 
 ### Examples
 
 | Czech | English |
 |:------|:--------|
-| Čekám na **něj**. | I'm waiting for him. |
-| Dívám se na **ni**. | I'm looking at her. |
-| Myslím na **ně**. | I'm thinking of them. |
-| To je pro **něj**. | That's for him. |
-| Je to pro **ni**. | It's for her. |
-| Děkuji za **ni**. | I'm thanking for her. |
+| Jdu k **němu**. | I'm going to him. |
+| Díky **ní**. | Thanks to her. |
+| Kvůli **nim**. | Because of them. |
+| Proti **němu**. | Against him. |
 
 ---
 
-## First Person: Já → Mě/Mne
+## First Person: Já → Mi/Mně
 
 | Form | Usage | Example |
 |:-----|:------|:--------|
-| **mě** | short, common | Vidíš mě? |
-| **mne** | long, emphatic | Vidíš mne, ne jeho! |
-| **mě/mne** | after preposition | Čekej na mě. / Pro mne. |
+| **mi** | short, common | Dej mi to. |
+| **mně** | long, emphatic, after prep. | Dej to mně! / Ke mně. |
 
 ### Examples
 
 | Czech | English |
 |:------|:--------|
-| Vidíš **mě**? | Do you see me? |
-| Miluje **mě**. | She loves me. |
-| Čekej na **mě**. | Wait for me. |
-| To je pro **mě**. | That's for me. |
-| **Mne** se neptej! | Don't ask ME! (emphatic) |
+| Dej **mi** to. | Give it to me. |
+| Pomoz **mi**. | Help me. |
+| Je **mi** zima. | I'm cold. |
+| Líbí se **mi** to. | I like it. |
+| Řekni **mi** to. | Tell me. |
+| **Mně** to nedávej! | Don't give it to ME! (emphatic) |
+| Přijď ke **mně**. | Come to me. |
 
 ---
 
-## Second Person: Ty → Tě/Tebe
+## Second Person: Ty → Ti/Tobě
 
 | Form | Usage | Example |
 |:-----|:------|:--------|
-| **tě** | short, common | Vidím tě. |
-| **tebe** | long, emphatic | Vidím tebe! |
-| **tě/tebe** | after preposition | Čekám na tebe. |
+| **ti** | short, common | Dám ti to. |
+| **tobě** | long, emphatic, after prep. | Dám to tobě! / K tobě. |
 
 ### Examples
 
 | Czech | English |
 |:------|:--------|
-| Vidím **tě**. | I see you. |
-| Mám **tě** rád. | I like you. |
-| Čekám na **tebe**. | I'm waiting for you. |
-| To je pro **tebe**. | That's for you. |
-| Myslím na **tebe**. | I'm thinking of you. |
-| **Tebe** jsem neviděl! | I didn't see YOU! (emphatic) |
+| Dám **ti** to. | I'll give it to you. |
+| Pomůžu **ti**. | I'll help you. |
+| Jak je **ti**? | How are you? |
+| Chutná **ti** to? | Do you like it? (food) |
+| Řeknu **ti** pravdu. | I'll tell you the truth. |
+| **Tobě** nerozumím! | I don't understand YOU! |
+| Díky **tobě**! | Thanks to you! |
+| Jdu k **tobě**. | I'm going to you. |
 
 ---
 
 ## Third Person: On/Ona/Oni
 
-### He: On → Ho/Jeho/Něho
+### He/It: On/Ono → Mu/Jemu/Němu
 
 | Form | Usage | Example |
 |:-----|:------|:--------|
-| **ho** | short, common | Vidím ho. |
-| **jeho** | long, emphatic | Vidím jeho! |
-| **něho/něj** | after preposition | Čekám na něj. |
+| **mu** | short, common | Dám mu to. |
+| **jemu** | long, emphatic | Dám to jemu! |
+| **němu** | after preposition | Jdu k němu. |
 
-### She: Ona → Ji/Ni
-
-| Form | Usage | Example |
-|:-----|:------|:--------|
-| **ji** | without preposition | Vidím ji. |
-| **ni** | after preposition | Čekám na ni. |
-
-### They: Oni → Je/Ně
+### She: Ona → Jí/Ní
 
 | Form | Usage | Example |
 |:-----|:------|:--------|
-| **je** | without preposition | Vidím je. |
-| **ně** | after preposition | Čekám na ně. |
+| **jí** | without preposition | Dám jí to. |
+| **ní** | after preposition | Jdu k ní. |
+
+### They: Oni/Ony → Jim/Nim
+
+| Form | Usage | Example |
+|:-----|:------|:--------|
+| **jim** | without preposition | Dám jim to. |
+| **nim** | after preposition | Jdu k nim. |
 
 ### Examples
 
 | Czech | English |
 |:------|:--------|
-| Vidím **ho**. | I see him. |
-| Znám **ji**. | I know her. |
-| Vidím **je**. | I see them. |
-| Čekám na **něj**. | I'm waiting for him. |
-| Dívám se na **ni**. | I'm looking at her. |
-| Ptám se na **ně**. | I'm asking about them. |
-| To je pro **něho**. | That's for him. |
+| Dám **mu** knihu. | I'll give him the book. |
+| Pomáhám **jí**. | I'm helping her. |
+| Řekni **jim** to. | Tell them. |
+| Jdu k **němu**. | I'm going to him. |
+| Díky **ní**. | Thanks to her. |
+| Kvůli **nim** jsem pozdě. | Because of them I'm late. |
+| **Jemu** nerozumím. | I don't understand HIM. |
 
 ---
 
-## Formal "You": Vy → Vás
+## Formal "You": Vy → Vám
 
-When addressing someone formally, use **vy** forms:
+When addressing someone formally:
 
 | Czech | English |
 |:------|:--------|
-| Vidím **vás**. | I see you (formal). |
-| Čekám na **vás**. | I'm waiting for you (formal). |
-| To je pro **vás**. | That's for you (formal). |
+| Dám **vám** to. | I'll give it to you (formal). |
+| Pomůžu **vám**. | I'll help you (formal). |
+| Jak je **vám**? | How are you? (formal) |
+| Děkuji **vám**. | Thank you (formal). |
+| Jdu k **vám**. | I'm going to you (formal). |
 
 ---
 
 ## Word Order
 
-Short pronouns follow specific word order rules:
+Short dative pronouns follow specific word order rules:
 
 :::tip Clitic Order
-Short pronouns come **after the first stressed element** in a sentence:
+Short pronouns come **after the first stressed element**:
 
-1. Vidím **tě**. ✓
-2. **Tě** vidím. ✗ (short form can't start sentence)
-3. **Tebe** vidím! ✓ (long form can start for emphasis)
+1. Dám **ti** to. ✓
+2. **Ti** dám to. ✗ (short form can't start sentence)
+3. **Tobě** to dám! ✓ (long form can start for emphasis)
 :::
 
-### Examples of Word Order
+### Order: Dative before Accusative
 
-| Czech | English | Note |
-|:------|:--------|:-----|
-| Vidím tě. | I see you. | Normal |
-| Petr tě vidí. | Petr sees you. | After subject |
-| Dnes tě vidím. | Today I see you. | After adverb |
-| Tebe vidím! | YOU I see! | Long form for emphasis |
-
----
-
-## Reflexive: Se/Sebe
-
-The reflexive pronoun **se** (oneself) also has accusative forms:
-
-| Form | Usage | Example |
-|:-----|:------|:--------|
-| **se** | short, common | Vidím se v zrcadle. |
-| **sebe** | long, emphatic | Vidím jen sebe! |
+When you have both dative AND accusative pronouns, dative comes first:
 
 | Czech | English |
 |:------|:--------|
-| Dívám **se** na sebe. | I'm looking at myself. |
-| Myslí jen na **sebe**. | He thinks only of himself. |
-| Koupil to pro **sebe**. | He bought it for himself. |
+| Dám **ti** **ho**. | I'll give it (him) to you. |
+| Dám **mu** **ji**. | I'll give her to him. |
+| Řekni **mi** **to**. | Tell it to me. |
+
+---
+
+## Reflexive: Si/Sobě
+
+The reflexive pronoun **si** (to oneself) in dative:
+
+| Form | Usage | Example |
+|:-----|:------|:--------|
+| **si** | short, common | Koupím si auto. |
+| **sobě** | long, emphatic | Koupil to sobě, ne mně! |
+
+### Common Uses of "Si"
+
+| Czech | English |
+|:------|:--------|
+| Koupím **si** knihu. | I'll buy myself a book. |
+| Dej **si** pozor! | Be careful! (lit. "give yourself attention") |
+| Dám **si** kávu. | I'll have coffee. |
+| Vezmi **si**! | Help yourself! (Take for yourself!) |
+| Myslím **si**, že... | I think that... |
+| Pamatuj **si**! | Remember! |
+
+---
+
+## With Dative Verbs
+
+| Verb | Example with Pronoun |
+|:-----|:--------------------|
+| pomáhat | Pomáhám **mu**. (I help him.) |
+| věřit | Věřím **ti**. (I believe you.) |
+| rozumět | Nerozumím **jim**. (I don't understand them.) |
+| děkovat | Děkuji **vám**. (I thank you.) |
+| líbit se | Líbí se **mi** to. (I like it.) |
+| chutnat | Chutná **ti** to? (Do you like it?) |
+| vadit | Vadí **mi** to. (It bothers me.) |
+| chybět | Chybíš **mi**. (I miss you.) |
+
+---
+
+## Impersonal Expressions
+
+| Czech | English |
+|:------|:--------|
+| Je **mi** zima. | I'm cold. |
+| Je **ti** teplo? | Are you warm? |
+| Je **mu** špatně. | He feels sick. |
+| Je **jí** líto. | She's sorry. |
+| Je **nám** dobře. | We feel good. |
+| Je **vám** horko? | Are you hot? (formal) |
+| Je **jim** smutno. | They're sad. |
 
 ---
 
@@ -206,14 +243,29 @@ The reflexive pronoun **se** (oneself) also has accusative forms:
 
 | Czech | English |
 |:------|:--------|
-| Mám tě rád/ráda. | I love you. (casual) |
-| Miluju tě. | I love you. |
-| Vidím tě! | I see you! |
-| Čekám na tebe. | I'm waiting for you. |
-| Myslím na tebe. | I'm thinking of you. |
-| Těší mě. | Nice to meet you. (lit. "It pleases me") |
-| Omlouvám se. | I'm sorry. (lit. "I excuse myself") |
-| Dívám se na to. | I'm looking at it. |
+| Dej mi vědět. | Let me know. |
+| Řekni mi... | Tell me... |
+| Pomoz mi! | Help me! |
+| Chybíš mi. | I miss you. |
+| Je mi líto. | I'm sorry. |
+| Těší mě. | Nice to meet you. |
+| Jak se ti daří? | How are you doing? |
+| Stalo se mu něco? | Did something happen to him? |
+| Co ti je? | What's wrong with you? |
+
+---
+
+## Summary Table
+
+| Person | After Verb | After K | After Díky/Kvůli |
+|:-------|:-----------|:--------|:-----------------|
+| I | mi | ke mně | díky mně |
+| you | ti | k tobě | díky tobě |
+| he | mu | k němu | díky němu |
+| she | jí | k ní | díky ní |
+| we | nám | k nám | díky nám |
+| you (pl) | vám | k vám | díky vám |
+| they | jim | k nim | díky nim |
 
 ---
 
@@ -221,44 +273,54 @@ The reflexive pronoun **se** (oneself) also has accusative forms:
 
 Replace the noun with a pronoun:
 
-1. Vidím Petra. → Vidím ___.
-2. Znám Evu. → Znám ___.
-3. Čekám na Marii. → Čekám na ___.
-4. To je pro studenty. → To je pro ___.
-5. Dívám se na film. → Dívám se na ___.
-6. Miluju svou matku. → Miluju ___.
+1. Dám to Petrovi. → Dám to ___.
+2. Pomáhám mamince. → Pomáhám ___.
+3. Jdu k bratrovi. → Jdu k ___.
+4. Díky Evě jsem vyhrál. → Díky ___ jsem vyhrál.
+5. Řekni to rodičům. → Řekni to ___.
+6. Kvůli studentům jsem pozdě. → Kvůli ___ jsem pozdě.
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Vidím **ho**. (him)
-2. Znám **ji**. (her)
-3. Čekám na **ni**. (her - after preposition)
-4. To je pro **ně**. (them - after preposition)
-5. Dívám se na **něj/to**. (it - after preposition)
-6. Miluju **ji**. (her)
+1. Dám to **mu**. (to him)
+2. Pomáhám **jí**. (to her)
+3. Jdu k **němu**. (to him - after preposition)
+4. Díky **ní** jsem vyhrál. (to her - after preposition)
+5. Řekni to **jim**. (to them)
+6. Kvůli **nim** jsem pozdě. (them - after preposition)
 
 </details>
 
 ---
 
-## Summary Table
+## Common Mistakes
 
-| Person | After Verb | After Preposition |
-|:-------|:-----------|:------------------|
-| me | mě | na mě |
-| you (sg.) | tě | na tebe |
-| him | ho | na něj |
-| her | ji | na ni |
-| it | ho/je | na něj/ně |
-| us | nás | na nás |
-| you (pl.) | vás | na vás |
-| them | je | na ně |
+:::warning Watch Out!
+
+**❌ Dám jemu to** (long form in normal sentence)
+**✅ Dám mu to** (short form for normal usage)
+
+---
+
+**❌ Jdu k mu** (short form after preposition!)
+**✅ Jdu k němu** (n- form after preposition)
+
+---
+
+**❌ Díky ji** (wrong form!)
+**✅ Díky ní** (n- form after preposition)
+
+---
+
+**❌ Ti dám to** (short form starting sentence!)
+**✅ Dám ti to** (correct word order)
+:::
 
 ---
 
 ## Next Steps
 
 - [Singular Endings](/singular) - Noun forms
-- [Adjectives](/adjectives) - Adjective agreement
-- [Exercises](/exercises/direct-objects) - Practice with pronouns
+- [Prepositions](/prepositions) - k, díky, kvůli, proti
+- [Exercises](/exercises/indirect-objects) - Practice with pronouns

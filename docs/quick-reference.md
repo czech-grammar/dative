@@ -3,7 +3,7 @@ sidebar_position: 7
 title: Quick Reference
 ---
 
-# Accusative Case Quick Reference
+# Dative Case Quick Reference
 
 Everything you need on one page. Print this!
 
@@ -12,120 +12,129 @@ Everything you need on one page. Print this!
 ## The Golden Rule
 
 :::tip Remember This!
-- **Masculine animate** → CHANGES (like genitive)
-- **Feminine -a** → CHANGES to **-u**
-- **Everything else** → NO CHANGE
+| Gender | Singular | Plural |
+|:-------|:---------|:-------|
+| Masc. Animate | **-ovi** | **-ům** |
+| Masc. Inanimate | **-u** | **-ům** |
+| Feminine -a | **-ě** (palatalization!) | **-ám** |
+| Feminine -e/cons | **-i** | **-ím** |
+| Neuter -o | **-u** | **-ům** |
+| Neuter -e/-í | **-i/-í** | **-ím** |
 :::
 
 ---
 
 ## Singular Noun Endings
 
-| Gender/Type | Nominative | Accusative | Example |
-|:------------|:-----------|:-----------|:--------|
-| **Masc. Animate Hard** | student | student**a** | Vidím studenta. |
-| **Masc. Animate Soft** | muž | muž**e** | Vidím muže. |
-| **Masc. Inanimate** | stůl | stůl | Vidím stůl. |
-| **Feminine -a** | žena | žen**u** | Vidím ženu. |
-| **Feminine -e** | růže | růž**i** | Vidím růži. |
-| **Feminine cons.** | věc | věc | Vidím věc. |
-| **Neuter** | město | město | Vidím město. |
+| Gender/Type | Nominative | Dative | Example |
+|:------------|:-----------|:-------|:--------|
+| **Masc. Animate** | student | student**ovi** | Dám to studentovi. |
+| **Masc. Inanimate** | hrad | hrad**u** | Jdu k hradu. |
+| **Feminine -a** | žena | žen**ě** | Pomáhám ženě. |
+| **Feminine -a (k/h/ch)** | matka | matc**e** | Pomáhám matce. |
+| **Feminine -e** | růže | růž**i** | Dám vodu růži. |
+| **Feminine cons.** | věc | věc**i** | Nevěřím věci. |
+| **Neuter -o** | město | měst**u** | Jdu k městu. |
+| **Neuter -e** | moře | moř**i** | Jdu k moři. |
 
 ---
 
 ## Plural Noun Endings
 
-| Gender/Type | Nom. Plural | Acc. Plural | Example |
+| Gender/Type | Nom. Plural | Dat. Plural | Example |
 |:------------|:------------|:------------|:--------|
-| **Masc. Animate Hard** | studenti | student**y** | Vidím studenty. |
-| **Masc. Animate Soft** | muži | muž**e** | Vidím muže. |
-| **Masc. Inanimate** | stoly | stoly | Vidím stoly. |
-| **Feminine** | ženy | ženy | Vidím ženy. |
-| **Neuter** | města | města | Vidím města. |
+| **Masculine** | studenti | student**ům** | Dám to studentům. |
+| **Feminine -a** | ženy | žen**ám** | Pomáhám ženám. |
+| **Feminine -e** | růže | růž**ím** | Dávám vodu růžím. |
+| **Neuter -o** | města | měst**ům** | Jezdím k městům. |
+| **Neuter -e** | moře | moř**ím** | Jezdím k mořím. |
+
+---
+
+## Palatalization (Feminine -a nouns)
+
+| Before -ě | Changes to | Example |
+|:----------|:-----------|:--------|
+| k | **c** | matka → matce |
+| h | **z** | kniha → knize |
+| ch | **š** | moucha → mouše |
+| r | **ř** | sestra → sestře |
 
 ---
 
 ## Personal Pronouns
 
-| Person | Nominative | Accusative | After Preposition |
-|:-------|:-----------|:-----------|:------------------|
-| I | já | **mě** | na mě |
-| you (sg) | ty | **tě** | na tebe |
-| he | on | **ho** | na něj |
-| she | ona | **ji** | na ni |
-| it | ono | **ho/je** | na něj |
-| we | my | **nás** | na nás |
-| you (pl) | vy | **vás** | na vás |
-| they | oni | **je** | na ně |
+| Person | Dative (short) | Dative (long) | After Preposition |
+|:-------|:---------------|:--------------|:------------------|
+| I | **mi** | mně | ke mně |
+| you (sg) | **ti** | tobě | k tobě |
+| he/it | **mu** | jemu | k němu |
+| she | **jí** | jí | k ní |
+| we | **nám** | nám | k nám |
+| you (pl) | **vám** | vám | k vám |
+| they | **jim** | jim | k nim |
 
 ---
 
 ## Adjective Endings
 
-| | Masc. Anim. Sg. | Masc. Inan./Neut. | Fem. Sg. | Plural |
-|:--|:---------------|:------------------|:---------|:-------|
-| **Hard** | nov**ého** | nov**ý/é** | nov**ou** | nov**é** (anim: -é) |
-| **Soft** | ciz**ího** | ciz**í** | ciz**í** | ciz**í** |
+| | Masc. Sg. | Fem. Sg. | Neut. Sg. | All Plural |
+|:--|:---------|:---------|:----------|:-----------|
+| **Hard** | nov**ému** | nov**é** | nov**ému** | nov**ým** |
+| **Soft** | ciz**ímu** | ciz**í** | ciz**ímu** | ciz**ím** |
 
 ---
 
-## Prepositions with Accusative
+## Dative Prepositions
 
 | Preposition | Meaning | Example |
 |:------------|:--------|:--------|
-| **na** | onto, to, for | Jdu na poštu. |
-| **pro** | for (someone) | To je pro tebe. |
-| **přes** | across, through | Jdu přes most. |
-| **za** | behind, for, in (time) | Za hodinu. |
-| **o** | by (amount) | O rok starší. |
-| **mimo** | outside, except | Mimo město. |
-
-:::warning Do + Genitive
-**Do** (into, to) takes **Genitive**, not Accusative!
-- Jdu do školy. (genitive)
-:::
+| **k/ke** | to, toward | Jdu k doktorovi. |
+| **díky** | thanks to | Díky tobě! |
+| **kvůli** | because of | Kvůli dešti. |
+| **proti** | against | Jsem proti tomu. |
+| **naproti** | opposite | Naproti parku. |
+| **vůči** | toward (attitude) | Vůči všem. |
 
 ---
 
-## Motion vs Location
-
-| Motion (Accusative) | Location (Locative) |
-|:--------------------|:--------------------|
-| Jdu **na poštu**. | Jsem **na poště**. |
-| Jdu **na koncert**. | Jsem **na koncertě**. |
-| Dávám to **na stůl**. | Je to **na stole**. |
-
----
-
-## Common Verbs + Accusative
+## Dative Verbs (No Preposition!)
 
 | Verb | Meaning | Example |
 |:-----|:--------|:--------|
-| mít | to have | Mám knihu. |
-| vidět | to see | Vidím muže. |
-| znát | to know | Znám Prahu. |
-| chtít | to want | Chci kávu. |
-| milovat | to love | Miluju tě. |
-| potřebovat | to need | Potřebuji pomoc. |
-| číst | to read | Čtu noviny. |
-| psát | to write | Píšu dopis. |
-| jíst | to eat | Jím jablko. |
-| pít | to drink | Piju vodu. |
-| čekat na | to wait for | Čekám na tebe. |
-| dívat se na | to look at | Dívám se na film. |
+| pomáhat | to help | Pomáhám bratrovi. |
+| věřit | to believe | Věřím ti. |
+| rozumět | to understand | Rozumím češtině. |
+| děkovat | to thank | Děkuji vám. |
+| odpovídat | to answer | Odpovídám učiteli. |
+| líbit se | to be pleasing | Líbí se mi to. |
+| chutnat | to taste (good) | Chutná mi to. |
+| vadit | to bother | Vadí mi to. |
+| chybět | to be missing | Chybíš mi. |
+| patřit | to belong | Patří to bratrovi. |
 
 ---
 
-## Time Expressions
+## Impersonal Expressions
 
 | Czech | English |
 |:------|:--------|
-| každý den | every day |
-| celý týden | the whole week |
-| příští rok | next year |
-| za hodinu | in an hour |
-| za týden | in a week |
-| přes noc | overnight |
+| Je **mi** zima. | I'm cold. |
+| Je **ti** teplo? | Are you warm? |
+| Je **mu** špatně. | He feels sick. |
+| Je **jí** líto. | She's sorry. |
+| Jak je **vám**? | How are you? (formal) |
+
+---
+
+## Giving Verbs (ACC + DAT)
+
+| Verb | Pattern | Example |
+|:-----|:--------|:--------|
+| dát | give ACC to DAT | Dám knihu bratrovi. |
+| říct | tell ACC to DAT | Řekni to mamince. |
+| koupit | buy ACC for DAT | Koupím dárek kamarádce. |
+| poslat | send ACC to DAT | Pošlu dopis rodičům. |
 
 ---
 
@@ -133,36 +142,36 @@ Everything you need on one page. Print this!
 
 | Czech | English |
 |:------|:--------|
-| Mám tě rád/ráda. | I love you. |
-| Čekám na tebe. | I'm waiting for you. |
-| Děkuji za pomoc. | Thanks for the help. |
-| Těším se na víkend. | I'm looking forward to the weekend. |
-| Dívám se na televizi. | I'm watching TV. |
-| Jdu na pivo. | I'm going for a beer. |
-| To je pro tebe. | That's for you. |
+| Dej mi to. | Give it to me. |
+| Pomoz mi! | Help me! |
+| Řekni mi... | Tell me... |
+| Chybíš mi. | I miss you. |
+| Je mi líto. | I'm sorry. |
+| Díky tobě! | Thanks to you! |
+| Jdu k doktorovi. | I'm going to the doctor. |
+| Přijď k nám! | Come to us! |
 
 ---
 
 ## Quick Decision Tree
 
 ```
-Is it a DIRECT OBJECT?
-├── Is it masculine animate? → Add -a (hard) or -e (soft)
-├── Is it feminine -a? → Change to -u
-└── Otherwise → No change
+DATIVE = Who RECEIVES?
 
-Is it with a PREPOSITION?
-├── na/pro/přes/za + Accusative
-└── do + Genitive (not accusative!)
+After dative verb (pomáhat, věřit, etc.)?
+├── Yes → Use dative
+└── After k/díky/kvůli/proti?
+    ├── Yes → Use dative
+    └── Expressing feeling (je mi zima)?
+        └── Yes → Use dative pronoun
 ```
 
 ---
 
 ## The 2 Questions
 
-1. **Is it masculine animate?** → Changes
-2. **Is it feminine -a?** → Changes to -u
-3. **Otherwise** → No change
+1. **Is someone receiving something?** → Dative
+2. **Is it after k, díky, kvůli, or a dative verb?** → Dative
 
 ---
 
