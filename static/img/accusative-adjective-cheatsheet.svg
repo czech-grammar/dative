@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 550" font-family="system-ui, -apple-system, sans-serif">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="3" stdDeviation="4" flood-opacity="0.12"/>
+    </filter>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a202c"/>
+      <stop offset="100%" style="stop-color:#2d3748"/>
+    </linearGradient>
+    <linearGradient id="mascAnimGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4299e1"/>
+      <stop offset="100%" style="stop-color:#3182ce"/>
+    </linearGradient>
+    <linearGradient id="femGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ed64a6"/>
+      <stop offset="100%" style="stop-color:#d53f8c"/>
+    </linearGradient>
+    <linearGradient id="noChangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#718096"/>
+      <stop offset="100%" style="stop-color:#4a5568"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecc94b"/>
+      <stop offset="100%" style="stop-color:#d69e2e"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9f7aea"/>
+      <stop offset="100%" style="stop-color:#805ad5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main card background -->
+  <rect x="20" y="20" width="910" height="510" rx="20" fill="url(#cardBg)" filter="url(#shadow)"/>
+
+  <!-- Header -->
+  <text x="475" y="58" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Accusative Adjective Cheat Sheet</text>
+  <text x="475" y="82" text-anchor="middle" font-size="14" fill="#a0aec0">Adjectives agree with nouns in gender, number, and case</text>
+
+  <!-- Divider line -->
+  <line x1="50" y1="100" x2="900" y2="100" stroke="#4a5568" stroke-width="1"/>
+
+  <!-- Golden Rule Box -->
+  <rect x="35" y="110" width="870" height="45" rx="10" fill="url(#goldGrad)" filter="url(#shadow)"/>
+  <text x="475" y="140" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a202c">SAME PATTERN: Masc Animate → -ého/-ího  |  Feminine → -ou  |  Everything else = NO CHANGE</text>
+
+  <!-- SINGULAR SECTION -->
+  <text x="250" y="185" text-anchor="middle" font-size="16" font-weight="bold" fill="white">SINGULAR</text>
+
+  <!-- Masc Animate Singular -->
+  <rect x="35" y="200" width="200" height="150" rx="10" fill="#1a202c" stroke="url(#mascAnimGrad)" stroke-width="2"/>
+  <rect x="35" y="200" width="200" height="35" rx="10" fill="url(#mascAnimGrad)"/>
+  <rect x="35" y="223" width="200" height="12" fill="url(#mascAnimGrad)"/>
+  <text x="135" y="225" text-anchor="middle" font-size="12" font-weight="bold" fill="white">MASC ANIMATE</text>
+
+  <text x="135" y="260" text-anchor="middle" font-size="16" font-weight="bold" fill="#4299e1">-ý → -ého</text>
+  <text x="50" y="280" font-size="11" fill="#e2e8f0">nový → nov<tspan fill="#4299e1" font-weight="bold">ého</tspan></text>
+  <text x="50" y="298" font-size="11" fill="#e2e8f0">dobrý → dobr<tspan fill="#4299e1" font-weight="bold">ého</tspan></text>
+
+  <line x1="50" y1="310" x2="220" y2="310" stroke="#4a5568" stroke-width="1"/>
+
+  <text x="135" y="328" text-anchor="middle" font-size="14" font-weight="bold" fill="#4299e1">-í → -ího</text>
+  <text x="50" y="345" font-size="11" fill="#e2e8f0">cizí → ciz<tspan fill="#4299e1" font-weight="bold">ího</tspan></text>
+
+  <!-- Feminine Singular -->
+  <rect x="245" y="200" width="200" height="150" rx="10" fill="#1a202c" stroke="url(#femGrad)" stroke-width="2"/>
+  <rect x="245" y="200" width="200" height="35" rx="10" fill="url(#femGrad)"/>
+  <rect x="245" y="223" width="200" height="12" fill="url(#femGrad)"/>
+  <text x="345" y="225" text-anchor="middle" font-size="12" font-weight="bold" fill="white">FEMININE</text>
+
+  <text x="345" y="260" text-anchor="middle" font-size="16" font-weight="bold" fill="#ed64a6">-á → -ou</text>
+  <text x="260" y="280" font-size="11" fill="#e2e8f0">nová → nov<tspan fill="#ed64a6" font-weight="bold">ou</tspan></text>
+  <text x="260" y="298" font-size="11" fill="#e2e8f0">dobrá → dobr<tspan fill="#ed64a6" font-weight="bold">ou</tspan></text>
+
+  <line x1="260" y1="310" x2="430" y2="310" stroke="#4a5568" stroke-width="1"/>
+
+  <text x="345" y="328" text-anchor="middle" font-size="14" fill="#a0aec0">-í → -í (no change)</text>
+  <text x="260" y="345" font-size="11" fill="#718096">cizí → cizí</text>
+
+  <!-- Others Singular (No Change) -->
+  <rect x="455" y="200" width="200" height="150" rx="10" fill="#1a202c" stroke="url(#noChangeGrad)" stroke-width="2"/>
+  <rect x="455" y="200" width="200" height="35" rx="10" fill="url(#noChangeGrad)"/>
+  <rect x="455" y="223" width="200" height="12" fill="url(#noChangeGrad)"/>
+  <text x="555" y="225" text-anchor="middle" font-size="12" font-weight="bold" fill="white">M.INAN / NEUTER</text>
+
+  <text x="555" y="270" text-anchor="middle" font-size="24" font-weight="bold" fill="#718096">=</text>
+  <text x="555" y="295" text-anchor="middle" font-size="12" fill="#a0aec0">No change!</text>
+
+  <text x="470" y="325" font-size="11" fill="#718096">nový stůl → nový stůl</text>
+  <text x="470" y="343" font-size="11" fill="#718096">nové auto → nové auto</text>
+
+  <!-- PLURAL SECTION -->
+  <text x="770" y="185" text-anchor="middle" font-size="16" font-weight="bold" fill="white">PLURAL</text>
+
+  <!-- Masc Animate Plural -->
+  <rect x="665" y="200" width="120" height="150" rx="10" fill="#1a202c" stroke="url(#mascAnimGrad)" stroke-width="2"/>
+  <rect x="665" y="200" width="120" height="35" rx="10" fill="url(#mascAnimGrad)"/>
+  <rect x="665" y="223" width="120" height="12" fill="url(#mascAnimGrad)"/>
+  <text x="725" y="225" text-anchor="middle" font-size="11" font-weight="bold" fill="white">M. ANIM</text>
+
+  <text x="725" y="265" text-anchor="middle" font-size="14" font-weight="bold" fill="#4299e1">-í → -é</text>
+  <text x="680" y="290" font-size="10" fill="#e2e8f0">noví → nov<tspan fill="#4299e1" font-weight="bold">é</tspan></text>
+
+  <line x1="680" y1="305" x2="770" y2="305" stroke="#4a5568" stroke-width="1"/>
+
+  <text x="725" y="325" text-anchor="middle" font-size="12" fill="#a0aec0">soft: no Δ</text>
+  <text x="680" y="343" font-size="10" fill="#718096">cizí → cizí</text>
+
+  <!-- Others Plural (No Change) -->
+  <rect x="795" y="200" width="110" height="150" rx="10" fill="#1a202c" stroke="url(#noChangeGrad)" stroke-width="2"/>
+  <rect x="795" y="200" width="110" height="35" rx="10" fill="url(#noChangeGrad)"/>
+  <rect x="795" y="223" width="110" height="12" fill="url(#noChangeGrad)"/>
+  <text x="850" y="225" text-anchor="middle" font-size="11" font-weight="bold" fill="white">OTHERS</text>
+
+  <text x="850" y="270" text-anchor="middle" font-size="22" font-weight="bold" fill="#718096">=</text>
+  <text x="850" y="300" text-anchor="middle" font-size="11" fill="#a0aec0">No change</text>
+  <text x="850" y="340" text-anchor="middle" font-size="10" fill="#718096">Same as Nom Pl</text>
+
+  <!-- SPECIAL ADJECTIVES SECTION -->
+  <text x="475" y="385" text-anchor="middle" font-size="16" font-weight="bold" fill="white">SPECIAL ADJECTIVES</text>
+
+  <!-- Possessives -->
+  <rect x="35" y="400" width="280" height="115" rx="10" fill="#1a202c" stroke="url(#purpleGrad)" stroke-width="2"/>
+  <rect x="35" y="400" width="280" height="30" rx="10" fill="url(#purpleGrad)"/>
+  <rect x="35" y="418" width="280" height="12" fill="url(#purpleGrad)"/>
+  <text x="175" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="white">POSSESSIVES (můj, tvůj, náš...)</text>
+
+  <text x="50" y="455" font-size="11" fill="#e2e8f0">M.Anim: můj → <tspan fill="#9f7aea" font-weight="bold">mého</tspan></text>
+  <text x="50" y="473" font-size="11" fill="#e2e8f0">Fem: moje → <tspan fill="#9f7aea" font-weight="bold">mou</tspan></text>
+  <text x="50" y="491" font-size="11" fill="#e2e8f0">M.Inan/Neut: <tspan fill="#718096">no change</tspan></text>
+  <text x="180" y="455" font-size="11" fill="#e2e8f0">náš → <tspan fill="#9f7aea" font-weight="bold">našeho</tspan></text>
+  <text x="180" y="473" font-size="11" fill="#e2e8f0">naše → <tspan fill="#9f7aea" font-weight="bold">naši</tspan></text>
+
+  <!-- Demonstratives -->
+  <rect x="330" y="400" width="280" height="115" rx="10" fill="#1a202c" stroke="url(#purpleGrad)" stroke-width="2"/>
+  <rect x="330" y="400" width="280" height="30" rx="10" fill="url(#purpleGrad)"/>
+  <rect x="330" y="418" width="280" height="12" fill="url(#purpleGrad)"/>
+  <text x="470" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="white">DEMONSTRATIVES (ten, ta, to)</text>
+
+  <text x="345" y="455" font-size="11" fill="#e2e8f0">M.Anim: ten → <tspan fill="#9f7aea" font-weight="bold">toho</tspan></text>
+  <text x="345" y="473" font-size="11" fill="#e2e8f0">Fem: ta → <tspan fill="#9f7aea" font-weight="bold">tu</tspan></text>
+  <text x="345" y="491" font-size="11" fill="#e2e8f0">M.Inan: ten → <tspan fill="#718096">ten</tspan></text>
+  <text x="480" y="455" font-size="11" fill="#e2e8f0">Neut: to → <tspan fill="#718096">to</tspan></text>
+  <text x="480" y="473" font-size="11" fill="#e2e8f0">tento → <tspan fill="#9f7aea" font-weight="bold">tohoto</tspan></text>
+
+  <!-- Interrogatives -->
+  <rect x="625" y="400" width="280" height="115" rx="10" fill="#1a202c" stroke="url(#purpleGrad)" stroke-width="2"/>
+  <rect x="625" y="400" width="280" height="30" rx="10" fill="url(#purpleGrad)"/>
+  <rect x="625" y="418" width="280" height="12" fill="url(#purpleGrad)"/>
+  <text x="765" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="white">INTERROGATIVES (který, jaký)</text>
+
+  <text x="640" y="455" font-size="11" fill="#e2e8f0">M.Anim: který → <tspan fill="#9f7aea" font-weight="bold">kterého</tspan></text>
+  <text x="640" y="473" font-size="11" fill="#e2e8f0">Fem: která → <tspan fill="#9f7aea" font-weight="bold">kterou</tspan></text>
+  <text x="640" y="491" font-size="11" fill="#e2e8f0">M.Inan/Neut: <tspan fill="#718096">no change</tspan></text>
+  <text x="780" y="455" font-size="11" fill="#e2e8f0">jaký → <tspan fill="#9f7aea" font-weight="bold">jakého</tspan></text>
+  <text x="780" y="473" font-size="11" fill="#e2e8f0">jaká → <tspan fill="#9f7aea" font-weight="bold">jakou</tspan></text>
+</svg>

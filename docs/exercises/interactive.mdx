@@ -1,0 +1,235 @@
+---
+sidebar_position: 5
+title: Interactive Quizzes
+---
+
+import Quiz from '@site/src/components/Quiz';
+
+# Interactive Quizzes
+
+Test your knowledge with instant feedback!
+
+---
+
+## Masculine Animate (Quick Quiz)
+
+<Quiz
+  title="Choose the correct accusative form"
+  questions={[
+    {
+      question: "Vidím ___ (student)",
+      options: ["student", "studenta", "studentu"],
+      answer: "studenta",
+      explanation: "Masculine animate hard → add -a"
+    },
+    {
+      question: "Znám ___ (muž)",
+      options: ["muž", "muže", "muža"],
+      answer: "muže",
+      explanation: "Masculine animate soft → add -e"
+    },
+    {
+      question: "Mám ___ (pes)",
+      options: ["pes", "psa", "pse"],
+      answer: "psa",
+      explanation: "Masculine animate hard → add -a (pes → psa)"
+    },
+    {
+      question: "Vidím ___ (učitel)",
+      options: ["učitel", "učitele", "učitela"],
+      answer: "učitele",
+      explanation: "Masculine animate soft (-tel) → add -e"
+    },
+    {
+      question: "Potřebuji ___ (stůl)",
+      options: ["stůl", "stůla", "stole"],
+      answer: "stůl",
+      explanation: "Masculine INANIMATE → no change!"
+    }
+  ]}
+/>
+
+---
+
+## Feminine Nouns (Fill in the Blank)
+
+<Quiz
+  title="Type the correct accusative form"
+  questions={[
+    {
+      question: "Mám ___ (kniha)",
+      answer: "knihu",
+      explanation: "Feminine -a → -u"
+    },
+    {
+      question: "Chci ___ (káva)",
+      answer: "kávu",
+      explanation: "Feminine -a → -u"
+    },
+    {
+      question: "Znám ___ (Praha)",
+      answer: "Prahu",
+      explanation: "Feminine -a → -u (proper nouns too)"
+    },
+    {
+      question: "Hledám ___ (restaurace)",
+      answer: "restauraci",
+      explanation: "Feminine -e → -i"
+    },
+    {
+      question: "Mám ___ (práce)",
+      answer: "práci",
+      explanation: "Feminine -e → -i"
+    }
+  ]}
+/>
+
+---
+
+## No Change Quiz
+
+<Quiz
+  title="These should NOT change - type the same form"
+  questions={[
+    {
+      question: "Vidím ___ (auto)",
+      answer: "auto",
+      explanation: "Neuter nouns don't change in accusative"
+    },
+    {
+      question: "Mám ___ (telefon)",
+      answer: "telefon",
+      explanation: "Masculine INANIMATE doesn't change"
+    },
+    {
+      question: "Chci ___ (pivo)",
+      answer: "pivo",
+      explanation: "Neuter nouns don't change in accusative"
+    },
+    {
+      question: "Vidím ___ (město)",
+      answer: "město",
+      explanation: "Neuter nouns don't change in accusative"
+    }
+  ]}
+/>
+
+---
+
+## Pronouns Quiz
+
+<Quiz
+  title="Choose the correct pronoun"
+  questions={[
+    {
+      question: "Vidím ___ (já → me)",
+      options: ["já", "mě", "mi"],
+      answer: "mě",
+      explanation: "já → mě in accusative"
+    },
+    {
+      question: "Miluju ___ (ty → you)",
+      options: ["ty", "tě", "ti"],
+      answer: "tě",
+      explanation: "ty → tě in accusative"
+    },
+    {
+      question: "Znám ___ (on → him)",
+      options: ["on", "ho", "mu"],
+      answer: "ho",
+      explanation: "on → ho in accusative"
+    },
+    {
+      question: "Čekám na ___ (ona → her)",
+      options: ["ona", "ji", "ni"],
+      answer: "ni",
+      explanation: "After preposition: ona → ni"
+    },
+    {
+      question: "Čekám na ___ (on → him)",
+      options: ["ho", "něj", "mu"],
+      answer: "něj",
+      explanation: "After preposition: on → něj/něho"
+    }
+  ]}
+/>
+
+---
+
+## Mixed Challenge
+
+<Quiz
+  title="Complete with the correct accusative form"
+  questions={[
+    {
+      question: "Vidím ___ (bratr)",
+      answer: "bratra",
+      explanation: "Masculine animate hard → -a"
+    },
+    {
+      question: "Mám ___ (sestra)",
+      answer: "sestru",
+      explanation: "Feminine -a → -u"
+    },
+    {
+      question: "Potřebuji ___ (počítač)",
+      answer: "počítač",
+      explanation: "Masculine inanimate → no change"
+    },
+    {
+      question: "Čekám na ___ (ty)",
+      answer: "tebe",
+      explanation: "After preposition: ty → tebe"
+    },
+    {
+      question: "Děkuji za ___ (pomoc)",
+      answer: "pomoc",
+      explanation: "Feminine consonant → no change"
+    }
+  ]}
+/>
+
+---
+
+## Plural Challenge
+
+<Quiz
+  title="Form the accusative plural"
+  questions={[
+    {
+      question: "Vidím ___ (studenti)",
+      answer: "studenty",
+      explanation: "Masculine animate plural → -y"
+    },
+    {
+      question: "Znám ___ (učitelé)",
+      answer: "učitele",
+      explanation: "Masculine animate soft plural → -e"
+    },
+    {
+      question: "Mám ___ (knihy)",
+      answer: "knihy",
+      explanation: "Feminine plural → no change (same as nominative)"
+    },
+    {
+      question: "Vidím ___ (psi)",
+      answer: "psy",
+      explanation: "Masculine animate plural → -y"
+    },
+    {
+      question: "Mám ___ (auta)",
+      answer: "auta",
+      explanation: "Neuter plural → no change"
+    }
+  ]}
+/>
+
+---
+
+## More Practice
+
+Want more exercises? Try the written versions:
+
+- [Direct Objects](/exercises/direct-objects)
+- [Fill in the Blank](/exercises/fill-blank)
+- [Transform Drills](/exercises/transform)
