@@ -5,18 +5,23 @@ title: Plural Endings
 
 # Dative Plural Endings
 
-Great news! The Dative plural is **surprisingly simple** - there are basically just three endings for ALL genders!
+Good news: the Dative plural is one of the most regular corners of Czech. Every ending is a **long vowel + m**, and there are only **four** of them. Three cover almost everything; the fourth (**-em**) covers one feminine type and the two most common irregular plurals, *lidem* and *dětem*.
 
 ---
 
 ## The Big Picture
 
 :::tip The Golden Rule
-| Pattern | Ending | Examples |
-|:--------|:-------|:---------|
-| Masc. hard & Neuter -o | **-ům** | studentům, městům |
-| Feminine -a | **-ám** | ženám |
-| All soft patterns | **-ím** | mužím, růžím, mořím |
+| Ending | Used for | Examples |
+|:-------|:---------|:---------|
+| **-ům** | **All masculine** (hard and soft, animate and inanimate) + neuter **-o** | studentům, mužům, hradům, městům |
+| **-ám** | Feminine **-a** | ženám, školám |
+| **-ím** | Feminine **-e** and **píseň** type, neuter **-e** and **-í** | růžím, písním, mořím, nádražím |
+| **-em** | Feminine **kost** type + **lidé**, **děti** | kostem, věcem, lidem, dětem |
+:::
+
+:::info Soft masculine is -ům, not -ím
+*Muž → mužům*, *učitel → učitelům*, *stroj → strojům*. The soft ending **-ím** belongs to feminine and neuter soft nouns only. Masculine nouns never take it.
 :::
 
 ---
@@ -27,20 +32,23 @@ Great news! The Dative plural is **surprisingly simple** - there are basically j
 |:------------|:---------|:-----------|:--------|
 | **Masc. Animate Hard** | student | student**ům** | Dám to studentům. |
 | **Masc. Animate Soft** | muž | muž**ům** | Řekni to mužům. |
+| **Masc. Animate -a / -e** | předseda, soudce | předsed**ům**, soudc**ům** | Píšu soudcům. |
 | **Masc. Inanimate Hard** | hrad | hrad**ům** | Blížíme se k hradům. |
-| **Masc. Inanimate Soft** | stroj | stroj**ům** | — |
+| **Masc. Inanimate Soft** | stroj | stroj**ům** | Rozumím těm strojům. |
 | **Feminine -a** | žena | žen**ám** | Pomáhám ženám. |
 | **Feminine -e** | růže | růž**ím** | Dávám vodu růžím. |
-| **Feminine cons.** | věc | věc**em** | Nevěřím těm věcem. |
+| **Feminine píseň type** | píseň | písn**ím** | Naslouchám písním. |
+| **Feminine kost type** | kost, věc | kost**em**, věc**em** | Nevěřím těm věcem. |
 | **Neuter -o** | město | měst**ům** | Jezdíme k městům. |
 | **Neuter -e** | moře | moř**ím** | Jezdíme k mořím. |
 | **Neuter -í** | nádraží | nádraž**ím** | Jezdíme k nádražím. |
+| **Neuter kuře type** | kuře | kuř**atům** | Dávám zrní kuřatům. |
 
 ---
 
-## Masculine Plural
+## Masculine Plural → always **-ům**
 
-### Hard Pattern → **-ům**
+### Hard pattern
 
 Both animate and inanimate hard masculine nouns take **-ům**:
 
@@ -48,58 +56,99 @@ Both animate and inanimate hard masculine nouns take **-ům**:
 |:---------|:-----------|:--------|
 | student | student**ům** | Dám úkol studentům. |
 | bratr | bratr**ům** | Pomáhám bratrům. |
-| pes | ps**ům** | Dávám jídlo psům. |
+| kamarád | kamarád**ům** | Děkuji kamarádům. |
 | hrad | hrad**ům** | Jezdíme k hradům. |
-| dům | dom**ům** | Blížíme se k domům. |
-| stůl | stol**ům** | Jdu ke stolům. |
+| obchod | obchod**ům** | Jdeme k obchodům. |
 
-### Soft Pattern → **-ům**
+### Soft pattern
 
 | Nom. Sg. | Dative Pl. | Example |
 |:---------|:-----------|:--------|
 | muž | muž**ům** | Řekni to mužům. |
 | učitel | učitel**ům** | Děkuji učitelům. |
-| stroj | stroj**ům** | — |
+| přítel | přátel**ům** | Věřím přátelům. |
+| stroj | stroj**ům** | Rozumím těm strojům. |
+| pokoj | pokoj**ům** | Jdu k pokojům. |
 
-:::tip Simple!
-All masculine plurals end in **-ům** - no need to distinguish hard/soft or animate/inanimate!
+### Masculine nouns ending in -a and -e
+
+These look feminine or neuter, but they are masculine and take **-ům** like every other masculine noun:
+
+| Nom. Sg. | Dative Pl. | Example |
+|:---------|:-----------|:--------|
+| předseda | předsed**ům** | Píšu předsedům. |
+| kolega | koleg**ům** | Děkuji kolegům. |
+| turista | turist**ům** | Pomáhám turistům. |
+| soudce | soudc**ům** | Věřím soudcům. |
+
+:::tip One ending for all masculines
+No need to distinguish hard/soft or animate/inanimate. If it is masculine, the dative plural is **-ům**.
 :::
+
+### Watch the stem
+
+Some masculine nouns change their stem before the ending. The change is the same one you already know from the genitive singular:
+
+| Nom. Sg. | What happens | Dative Pl. |
+|:---------|:-------------|:-----------|
+| pes | fleeting **-e-** drops out | ps**ům** |
+| dům | **ů → o** | dom**ům** |
+| stůl | **ů → o** | stol**ům** |
+| otec | fleeting **-e-** drops out | otc**ům** |
+| přítel | **í → á** in the plural | přátel**ům** |
 
 ---
 
 ## Feminine Plural
 
-### Hard Feminine (-a nouns) → **-ám**
+Feminine nouns have three dative plural endings. Which one depends on the pattern.
+
+### -a nouns (žena type) → **-ám**
 
 | Nom. Sg. | Dative Pl. | Example |
 |:---------|:-----------|:--------|
 | žena | žen**ám** | Dávám květiny ženám. |
 | matka | matk**ám** | Pomáhám matkám. |
-| kniha | knih**ám** | — |
+| kniha | knih**ám** | Rozumím těm knihám. |
 | škola | škol**ám** | Jezdíme ke školám. |
 | sestra | sestr**ám** | Volám sestrám. |
+| ruka | ruk**ám** | Teplo prospívá rukám. |
 
-### Soft Feminine (-e nouns) → **-ím**
+### -e nouns (růže type) → **-ím**
 
 | Nom. Sg. | Dative Pl. | Example |
 |:---------|:-----------|:--------|
 | růže | růž**ím** | Dávám vodu růžím. |
 | ulice | ulic**ím** | Jdeme k ulicím. |
 | restaurace | restaurac**ím** | Blížíme se k restauracím. |
+| kolegyně | kolegyn**ím** | Děkuji kolegyním. |
 
-### Consonant Feminine → **-em** / **-ím**
+### Consonant nouns: **-ím** or **-em**?
 
-| Nom. Sg. | Dative Pl. | Example |
-|:---------|:-----------|:--------|
-| věc | věc**em** | Nevěřím těm věcem. |
-| noc | noc**ím** | — |
-| kost | kost**em** | — |
+Feminine nouns that end in a consonant split into two groups. Look at the **genitive singular** to tell them apart:
+
+| Type | Gen. Sg. ends in | Dative Pl. | Examples |
+|:-----|:-----------------|:-----------|:---------|
+| **píseň type** | **-e / -ě** (písně, postele) | **-ím** | písn**ím**, postel**ím**, kancelář**ím** |
+| **kost type** | **-i** (kosti, věci) | **-em** | kost**em**, věc**em**, místnost**em**, radost**em** |
+
+| Nom. Sg. | Gen. Sg. | Dative Pl. | Example |
+|:---------|:---------|:-----------|:--------|
+| píseň | písně | písn**ím** | Naslouchám písním. |
+| postel | postele | postel**ím** | Jdu k postelím. |
+| kost | kosti | kost**em** | Psi běží ke kostem. |
+| věc | věci | věc**em** | Nevěřím těm věcem. |
+| místnost | místnosti | místnost**em** | Jdeme k místnostem. |
+
+:::note Noc is the odd one out
+*Noc* has genitive singular *noci* like the kost type, but its dative plural is **nocím**, like the píseň type. A few other words mix the two patterns the same way (*moc → mocím*). Learn *nocím* as a word.
+:::
 
 ---
 
 ## Neuter Plural
 
-### Hard Neuter (-o nouns) → **-ům**
+### -o nouns (město type) → **-ům**
 
 | Nom. Sg. | Dative Pl. | Example |
 |:---------|:-----------|:--------|
@@ -107,31 +156,81 @@ All masculine plurals end in **-ům** - no need to distinguish hard/soft or anim
 | auto | aut**ům** | Blížíme se k autům. |
 | okno | okn**ům** | Jdu k oknům. |
 | kino | kin**ům** | Jdeme ke kinům. |
+| slovo | slov**ům** | Rozumím těm slovům. |
 
-### Soft Neuter (-e nouns) → **-ím**
+### -e nouns (moře type) → **-ím**
 
 | Nom. Sg. | Dative Pl. | Example |
 |:---------|:-----------|:--------|
 | moře | moř**ím** | Jezdíme k mořím. |
 | pole | pol**ím** | Jdu k polím. |
 | letiště | letišt**ím** | Jezdíme k letištím. |
+| srdce | srdc**ím** | Naslouchám srdcím. |
 
-### -í Neuter → **-ím**
+### -í nouns (stavení type) → **-ím**
+
+The ending is already **-í**, so nothing visibly changes except the added **-m**:
 
 | Nom. Sg. | Dative Pl. | Example |
 |:---------|:-----------|:--------|
 | nádraží | nádraž**ím** | Jezdíme k nádražím. |
 | náměstí | náměst**ím** | Jdeme k náměstím. |
+| stavení | staven**ím** | Blížíme se ke stavením. |
+
+### Young animals (kuře type) → **-atům**
+
+These neuters insert **-at-** in the plural, then take the regular **-ům**:
+
+| Nom. Sg. | Nom. Pl. | Dative Pl. |
+|:---------|:---------|:-----------|
+| kuře | kuřata | kuř**atům** |
+| dítě | děti (!) | dět**em** (see below) |
+| zvíře | zvířata | zvíř**atům** |
+| štěně | štěňata | štěň**atům** |
 
 ---
 
-## Summary: The Three Endings
+## The Two You Will Use Most: *lidem* and *dětem*
+
+These two irregular plurals are probably the most frequent dative plurals in everyday Czech. Both take **-em**:
+
+| Singular | Plural (Nom.) | Dative Pl. | Example |
+|:---------|:--------------|:-----------|:--------|
+| člověk | lidé / lidi | **lidem** | Pomáhám lidem. |
+| dítě | děti | **dětem** | Rozumím dětem. |
+
+*Děti* declines like a **kost**-type feminine in the plural even though *dítě* is neuter. *Lidé* has its own forms. Learn these two as words.
+
+---
+
+## Putting It Together: *těm novým lidem*
+
+In real sentences the noun almost always comes with a demonstrative or adjective. In the dative plural these are the same for every gender:
+
+| | Hard adjective | Soft adjective | Demonstrative |
+|:--|:---------------|:---------------|:--------------|
+| Dative Pl. | nov**ým** | ciz**ím** | **těm** |
+
+| Czech | English |
+|:------|:--------|
+| Dám to **těm novým studentům**. | I'll give it to those new students. |
+| Pomáhám **starým lidem**. | I help old people. |
+| Děkuji **všem učitelům**. | I thank all the teachers. |
+| Volám **svým sestrám**. | I'm calling my sisters. |
+| Rozumím **malým dětem**. | I understand small children. |
+
+See [Adjectives](/adjectives) for the full picture.
+
+---
+
+## Summary: The Four Endings
 
 | Ending | Used For | Examples |
 |:-------|:---------|:---------|
-| **-ům** | Masc. (all), Neuter -o | studentům, hradům, městům |
+| **-ům** | All masculine, neuter -o, neuter kuře type | studentům, mužům, hradům, městům, kuřatům |
 | **-ám** | Feminine -a | ženám, školám, matkám |
-| **-ím** | Soft patterns (all genders) | mužům, růžím, mořím, nádražím |
+| **-ím** | Feminine -e and píseň type, neuter -e and -í | růžím, písním, mořím, nádražím |
+| **-em** | Feminine kost type, *lidé*, *děti* | kostem, věcem, lidem, dětem |
 
 ---
 
@@ -140,13 +239,16 @@ All masculine plurals end in **-ům** - no need to distinguish hard/soft or anim
 | Word | Dat. Singular | Dat. Plural |
 |:-----|:--------------|:------------|
 | student | studentovi | studentům |
-| muž | mužovi | mužům |
+| muž | mužovi / muži | mužům |
 | hrad | hradu | hradům |
 | žena | ženě | ženám |
 | matka | matce | matkám |
 | růže | růži | růžím |
+| věc | věci | věcem |
 | město | městu | městům |
 | moře | moři | mořím |
+| dítě | dítěti | dětem |
+| člověk | člověku / člověkovi | lidem |
 
 ---
 
@@ -159,12 +261,14 @@ All masculine plurals end in **-ům** - no need to distinguish hard/soft or anim
 | děkovat | Děkuji mamince. | Děkuji rodičům. |
 | rozumět | Rozumím studentovi. | Rozumím studentům. |
 | volat | Volám kamarádovi. | Volám kamarádům. |
+| říkat | Říkám to dítěti. | Říkám to dětem. |
+| pomáhat | Pomáhám člověku. | Pomáhám lidem. |
 
 ---
 
 ## Practice
 
-Put the noun in Dative plural:
+Put the noun in the Dative plural:
 
 1. Dám knihy ___ (student) →
 2. Pomáhám ___ (žena) →
@@ -174,18 +278,26 @@ Put the noun in Dative plural:
 6. Blížíme se k ___ (hrad) →
 7. Děkuji ___ (kamarád) →
 8. Jdeme k ___ (moře) →
+9. Rozumím ___ (dítě) →
+10. Pomáhám ___ (člověk) →
+11. Nevěřím těm ___ (věc) →
+12. Dávám jídlo ___ (pes) →
 
 <details>
 <summary>**Check Answers**</summary>
 
-1. Dám knihy **studentům** (masc. hard → -ům)
+1. Dám knihy **studentům** (masc. → -ům)
 2. Pomáhám **ženám** (fem. -a → -ám)
 3. Jezdíme k **městům** (neuter -o → -ům)
-4. Věřím **učitelům** (masc. soft → -ům)
+4. Věřím **učitelům** (masc. soft → -ům, not -ím!)
 5. Dávám vodu **růžím** (fem. -e → -ím)
-6. Blížíme se k **hradům** (masc. hard → -ům)
-7. Děkuji **kamarádům** (masc. hard → -ům)
+6. Blížíme se k **hradům** (masc. → -ům)
+7. Děkuji **kamarádům** (masc. → -ům)
 8. Jdeme k **mořím** (neuter -e → -ím)
+9. Rozumím **dětem** (irregular plural děti → -em)
+10. Pomáhám **lidem** (irregular plural lidé → -em)
+11. Nevěřím těm **věcem** (fem. kost type → -em)
+12. Dávám jídlo **psům** (masc., fleeting -e- drops → -ům)
 
 </details>
 
@@ -200,23 +312,36 @@ Put the noun in Dative plural:
 
 ---
 
-**❌ Dám to ženů** (wrong ending!)
-**✅ Dám to ženám** (feminine -a takes -ám)
+**❌ Věřím učitelím** (soft masculine is not -ím!)
+**✅ Věřím učitelům** (all masculine → -ům)
 
 ---
 
-**❌ Jdu k městám** (wrong ending for neuter!)
-**✅ Jdu k městům** (neuter -o takes -ům)
+**❌ Jdu k městám** (feminine ending on a neuter!)
+**✅ Jdu k městům** (neuter -o → -ům)
+
+---
+
+**❌ Rozumím dětům / dětím**
+**✅ Rozumím dětem** (irregular, learn it as a word)
+
+---
+
+**❌ Nevěřím těm věcím**
+**✅ Nevěřím těm věcem** (kost type → -em)
 :::
 
 ---
 
 ## Memory Trick
 
-:::info Three Endings, That's It!
-- **-ům** = the "default" (masculine, neuter -o)
-- **-ám** = feminine -a words (think: fem**A** → -**Á**m)
-- **-ím** = soft patterns (soft consonants "want" -í-)
+:::info Long vowel + m
+- **-ům** = the default: every masculine, and neuter -o (think: **Ů** for mŮž, dŮm)
+- **-ám** = feminine -a words (fem**A** → -**Á**m)
+- **-ím** = soft feminine and neuter (soft consonants want -í-)
+- **-em** = the short one: kost**em**, věc**em**, lid**em**, dět**em**
+
+Say it: *ůůům, ááám, ííím, em*.
 :::
 
 ---
@@ -224,5 +349,5 @@ Put the noun in Dative plural:
 ## Next Steps
 
 - [Singular Endings](/singular) - Review singular patterns
-- [Adjectives](/adjectives) - Adjective agreement in plural
+- [Adjectives](/adjectives) - Adjective agreement in the dative
 - [Pronouns](/pronouns) - mi, ti, mu, jí, nám, vám, jim

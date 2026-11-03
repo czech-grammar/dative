@@ -17,9 +17,11 @@ Everything you need on one page. Print this!
 | Masc. Animate | **-ovi** | **-ům** |
 | Masc. Inanimate | **-u** | **-ům** |
 | Feminine -a | **-ě** (palatalization!) | **-ám** |
-| Feminine -e/cons | **-i** | **-ím** |
+| Feminine -e / píseň | **-i** | **-ím** |
+| Feminine kost type | **-i** | **-em** |
 | Neuter -o | **-u** | **-ům** |
 | Neuter -e/-í | **-i/-í** | **-ím** |
+| Irregular lidé, děti | — | **-em** (lidem, dětem) |
 :::
 
 ---
@@ -43,11 +45,13 @@ Everything you need on one page. Print this!
 
 | Gender/Type | Nom. Plural | Dat. Plural | Example |
 |:------------|:------------|:------------|:--------|
-| **Masculine** | studenti | student**ům** | Dám to studentům. |
+| **Masculine (all)** | studenti, muži | student**ům**, muž**ům** | Dám to studentům. |
 | **Feminine -a** | ženy | žen**ám** | Pomáhám ženám. |
 | **Feminine -e** | růže | růž**ím** | Dávám vodu růžím. |
+| **Feminine kost type** | věci | věc**em** | Nevěřím těm věcem. |
 | **Neuter -o** | města | měst**ům** | Jezdím k městům. |
 | **Neuter -e** | moře | moř**ím** | Jezdím k mořím. |
+| **Irregular** | lidé, děti | lid**em**, dět**em** | Pomáhám lidem. Rozumím dětem. |
 
 ---
 

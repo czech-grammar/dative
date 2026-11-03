@@ -138,7 +138,7 @@ Complete each sentence with the correct Dative form.
 5. Dávám vodu **růžím**. (fem. -e pl. → -ím)
 6. Věřím **přátelům**. (masc. pl. → -ům)
 7. Děkuji **učitelům**. (masc. pl. → -ům)
-8. Jdu k **dětem**. (neut. pl. → -ům)
+8. Jdu k **dětem**. (irregular plural děti → -em)
 
 </details>
 

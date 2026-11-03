@@ -79,7 +79,7 @@ Complete with the dative form:
 4. Pomáhám **jí** (pronoun)
 5. Pomáhám **rodičům** (masc. pl. → -ům)
 6. Pomáhám **kamarádce** (fem. -a, k→c → -e)
-7. Pomáhám **dětem** (neuter pl. → -ům)
+7. Pomáhám **dětem** (irregular plural děti → -em)
 8. Pomáhám **mužovi** / **muži** (masc. animate soft)
 
 </details>
