@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Theory",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#e9sufn",
+      "name": "Singular Endings",
+      "x": -220,
+      "y": -100,
+      "link": "./singular.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g45zx9",
+      "name": "Plural Endings",
+      "x": -32,
+      "y": -211,
+      "link": "./plural.jsonld",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vz8rhu",
+      "name": "Prepositions & Verbs",
+      "x": 199,
+      "y": -129,
+      "link": "./prepositions.jsonld",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35gtrs",
+      "name": "Adjective Agreement",
+      "x": 220,
+      "y": 100,
+      "link": "./adjectives.jsonld",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fiqrfa",
+      "name": "Pronouns",
+      "x": 14,
+      "y": 212,
+      "link": "./pronouns.jsonld",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fad69b",
+      "name": "← 3. Dative (3. pád)",
+      "x": -209,
+      "y": 117,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

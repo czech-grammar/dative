@@ -1,0 +1,155 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Indirect Objects",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pvzwd8",
+      "name": "Verbs with Dát",
+      "x": -242,
+      "y": -55,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#verbs-with-dát-to-give",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#57iy7q",
+      "name": "Verbs with Říct",
+      "x": -176,
+      "y": -151,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#verbs-with-říct-to-tell",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qprvms",
+      "name": "Verbs with Pomáhat",
+      "x": -69,
+      "y": -208,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#verbs-with-pomáhat-to-help",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fucmt",
+      "name": "Verbs with Věřit",
+      "x": 99,
+      "y": -198,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#verbs-with-věřit-to-believe",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t922yq",
+      "name": "Verbs with Rozumět",
+      "x": 204,
+      "y": -123,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#verbs-with-rozumět-to-understand",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26rfi6",
+      "name": "With Preposition K",
+      "x": 250,
+      "y": -2,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#with-preposition-k-to-toward",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u28rkq",
+      "name": "Mixed Practice: Díky & Kvůli",
+      "x": 186,
+      "y": 142,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#mixed-practice-díky-kvůli",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#varvfj",
+      "name": "Impersonal Expressions",
+      "x": 12,
+      "y": 212,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#impersonal-expressions",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ucttef",
+      "name": "Plural Indirect Objects",
+      "x": -157,
+      "y": 165,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/indirect-objects#plural-indirect-objects",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzipyd",
+      "name": "← Exercises",
+      "x": -242,
+      "y": 55,
+      "link": "./exercises.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

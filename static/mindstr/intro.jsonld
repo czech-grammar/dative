@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Introduction",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/dative/intro",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#tjeu4p",
+      "name": "Why Master the Dative?",
+      "x": -239,
+      "y": -63,
+      "link": "https://grammar.ilearnczech.com/dative/intro#why-master-the-dative",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x9rczq",
+      "name": "What You'll Learn",
+      "x": -78,
+      "y": -202,
+      "link": "https://grammar.ilearnczech.com/dative/intro#what-youll-learn",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48j6uy",
+      "name": "📚 Theory",
+      "x": -316,
+      "y": -329,
+      "link": "https://grammar.ilearnczech.com/dative/intro#theory",
+      "bgColor": "#efe6ff",
+      "parent": "#x9rczq"
+    },
+    {
+      "@id": "#9kbx2m",
+      "name": "💪 Exercises",
+      "x": -184,
+      "y": -477,
+      "link": "https://grammar.ilearnczech.com/dative/intro#exercises",
+      "bgColor": "#efe6ff",
+      "parent": "#x9rczq"
+    },
+    {
+      "@id": "#9gbbfy",
+      "name": "📋 Cheatsheets",
+      "x": 25,
+      "y": -424,
+      "link": "https://grammar.ilearnczech.com/dative/intro#cheatsheets",
+      "bgColor": "#efe6ff",
+      "parent": "#x9rczq"
+    },
+    {
+      "@id": "#kue24d",
+      "name": "Quick Facts",
+      "x": 132,
+      "y": -180,
+      "link": "https://grammar.ilearnczech.com/dative/intro#quick-facts",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezqvf7",
+      "name": "The Core Concept",
+      "x": 212,
+      "y": -113,
+      "link": "https://grammar.ilearnczech.com/dative/intro#the-core-concept",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4c22a7",
+      "name": "Dative vs Accusative",
+      "x": 250,
+      "y": -11,
+      "link": "https://grammar.ilearnczech.com/dative/intro#dative-vs-accusative",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpagjg",
+      "name": "The Key Patterns",
+      "x": 224,
+      "y": 94,
+      "link": "https://grammar.ilearnczech.com/dative/intro#the-key-patterns",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sptvks",
+      "name": "Dative Verbs You Must Know",
+      "x": 128,
+      "y": 170,
+      "link": "https://grammar.ilearnczech.com/dative/intro#dative-verbs-you-must-know",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u6iz6f",
+      "name": "Common Expressions with Dative",
+      "x": -48,
+      "y": 216,
+      "link": "https://grammar.ilearnczech.com/dative/intro#common-expressions-with-dative",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vb6nak",
+      "name": "Start Learning",
+      "x": -179,
+      "y": 148,
+      "link": "https://grammar.ilearnczech.com/dative/intro#start-learning",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zv6fek",
+      "name": "← 3. Dative (3. pád)",
+      "x": -240,
+      "y": 58,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 2,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

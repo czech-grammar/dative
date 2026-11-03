@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Transform",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#p46jmx",
+      "name": "Level 1: Masculine Animate",
+      "x": -223,
+      "y": -96,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform#level-1-masculine-animate--ovi",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu7kuh",
+      "name": "Level 2: Feminine with Palatalization",
+      "x": 2,
+      "y": -212,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform#level-2-feminine-with-palatalization",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2iffkx",
+      "name": "Level 3: Soft Feminine",
+      "x": 217,
+      "y": -105,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform#level-3-soft-feminine--i",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ssgz3q",
+      "name": "Level 4: Neuter and Masculine Inanimate",
+      "x": 212,
+      "y": 113,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform#level-4-neuter-and-masculine-inanimate",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gksydt",
+      "name": "Level 5: Pronouns",
+      "x": 2,
+      "y": 214,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform#level-5-pronouns",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8su7v6",
+      "name": "Level 6: Plurals",
+      "x": -151,
+      "y": 168,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/transform#level-6-plurals",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2da7xj",
+      "name": "← Exercises",
+      "x": -239,
+      "y": 63,
+      "link": "./exercises.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

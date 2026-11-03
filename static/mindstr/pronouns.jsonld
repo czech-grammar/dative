@@ -1,0 +1,350 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pronouns",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#h7ym9k",
+      "name": "Quick Reference",
+      "x": -247,
+      "y": -30,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#quick-reference",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ius84b",
+      "name": "Short vs Long Forms",
+      "x": -224,
+      "y": -86,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#short-vs-long-forms",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#583aqh",
+      "name": "After Prepositions: Add N-",
+      "x": -179,
+      "y": -130,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#after-prepositions-add-n-",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sbf4ee",
+      "name": "Examples",
+      "x": -359,
+      "y": -296,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#examples",
+      "bgColor": "#ffe2ed",
+      "parent": "#583aqh"
+    },
+    {
+      "@id": "#t6q67m",
+      "name": "First Person: Já → Mi/Mně",
+      "x": -124,
+      "y": -176,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#first-person-já-mimně",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abq85r",
+      "name": "Examples",
+      "x": -248,
+      "y": -369,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#examples",
+      "bgColor": "#ffe4d9",
+      "parent": "#t6q67m"
+    },
+    {
+      "@id": "#sy2ncx",
+      "name": "Second Person: Ty → Ti/Tobě",
+      "x": -58,
+      "y": -221,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#second-person-ty-titobě",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fertai",
+      "name": "Examples",
+      "x": -117,
+      "y": -413,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#examples",
+      "bgColor": "#f2ecd2",
+      "parent": "#sy2ncx"
+    },
+    {
+      "@id": "#9u36xp",
+      "name": "Third Person: On/Ona/Oni",
+      "x": 147,
+      "y": -171,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#third-person-ononaoni",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5q2nc4",
+      "name": "He/It: On/Ono → Mu/Jemu/Němu",
+      "x": 102,
+      "y": -415,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#heit-onono-mujemuněmu",
+      "bgColor": "#ddf2de",
+      "parent": "#9u36xp"
+    },
+    {
+      "@id": "#eegh3a",
+      "name": "She: Ona → Jí/Ní",
+      "x": 307,
+      "y": -430,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#she-ona-jíní",
+      "bgColor": "#ddf2de",
+      "parent": "#9u36xp"
+    },
+    {
+      "@id": "#tmtdcb",
+      "name": "They: Oni/Ony → Jim/Nim",
+      "x": 371,
+      "y": -285,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#they-oniony-jimnim",
+      "bgColor": "#ddf2de",
+      "parent": "#9u36xp"
+    },
+    {
+      "@id": "#ziixui",
+      "name": "Examples",
+      "x": 532,
+      "y": -217,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#examples",
+      "bgColor": "#ddf2de",
+      "parent": "#9u36xp"
+    },
+    {
+      "@id": "#qnf7j2",
+      "name": "Formal \"You\": Vy → Vám",
+      "x": 250,
+      "y": -4,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#formal-you-vy-vám",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rx55k2",
+      "name": "Word Order",
+      "x": 227,
+      "y": 88,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#word-order",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ux93wm",
+      "name": "Order: Dative before Accusative",
+      "x": 455,
+      "y": 176,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#order-dative-before-accusative",
+      "bgColor": "#daeeff",
+      "parent": "#rx55k2"
+    },
+    {
+      "@id": "#a464iu",
+      "name": "Reflexive: Si/Sobě",
+      "x": 164,
+      "y": 145,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#reflexive-sisobě",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#simp87",
+      "name": "Common Uses of \"Si\"",
+      "x": 328,
+      "y": 321,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#common-uses-of-si",
+      "bgColor": "#efe6ff",
+      "parent": "#a464iu"
+    },
+    {
+      "@id": "#tzmucf",
+      "name": "With Dative Verbs",
+      "x": 94,
+      "y": 191,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#with-dative-verbs",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmtzgz",
+      "name": "Impersonal Expressions",
+      "x": 9,
+      "y": 266,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#impersonal-expressions",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9snuz",
+      "name": "Common Phrases",
+      "x": -73,
+      "y": 220,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#common-phrases",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nxqgmq",
+      "name": "Summary Table",
+      "x": -137,
+      "y": 175,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#summary-table",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dguykc",
+      "name": "Practice",
+      "x": -190,
+      "y": 131,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#practice",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#28eue2",
+      "name": "Common Mistakes",
+      "x": -228,
+      "y": 87,
+      "link": "https://grammar.ilearnczech.com/dative/pronouns#common-mistakes",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f4n9qu",
+      "name": "← Theory",
+      "x": -248,
+      "y": 30,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,272 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Prepositions & Verbs",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "Dative Prepositions",
+      "x": -244,
+      "y": -45,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#dative-prepositions",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "K/Ke + Dative",
+      "x": -169,
+      "y": -157,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#kke-dative-to-toward",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "Physical Movement",
+      "x": -396,
+      "y": -259,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#physical-movement",
+      "bgColor": "#efe6ff",
+      "parent": "#fkywkd"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "Figurative Meaning",
+      "x": -322,
+      "y": -420,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#figurative-meaning",
+      "bgColor": "#efe6ff",
+      "parent": "#fkywkd"
+    },
+    {
+      "@id": "#vn2imx",
+      "name": "Díky + Dative",
+      "x": -78,
+      "y": -210,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#díky-dative-thanks-to",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2tznvh",
+      "name": "Kvůli + Dative",
+      "x": 65,
+      "y": -222,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#kvůli-dative-because-of-due-to",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnh2fk",
+      "name": "Proti + Dative",
+      "x": 128,
+      "y": -176,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#proti-dative-against",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dk76uz",
+      "name": "Naproti + Dative",
+      "x": 196,
+      "y": -132,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#naproti-dative-opposite-across-from",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5aggpq",
+      "name": "Vůči + Dative",
+      "x": 238,
+      "y": -64,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#vůči-dative-toward---attitude",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqmaaw",
+      "name": "Dative Verbs",
+      "x": 233,
+      "y": 76,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#dative-verbs-no-preposition-needed",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjbq25",
+      "name": "Essential Dative Verbs",
+      "x": 494,
+      "y": 63,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#essential-dative-verbs",
+      "bgColor": "#daeeff",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#tz98k5",
+      "name": "Verbs of Liking/Pleasing",
+      "x": 497,
+      "y": 270,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#verbs-of-likingpleasing",
+      "bgColor": "#daeeff",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#437yyk",
+      "name": "Impersonal Expressions with Dative",
+      "x": 134,
+      "y": 176,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#impersonal-expressions-with-dative",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3k2bu",
+      "name": "With \"Se Zdá\"",
+      "x": 253,
+      "y": 366,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#with-se-zdá-it-seems",
+      "bgColor": "#efe6ff",
+      "parent": "#437yyk"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "Giving and Telling Verbs",
+      "x": 24,
+      "y": 244,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#giving-and-telling-verbs",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aurbbn",
+      "name": "Question Words",
+      "x": -86,
+      "y": 200,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#question-words",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxz322",
+      "name": "Practice",
+      "x": -158,
+      "y": 156,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#practice",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s77s87",
+      "name": "Common Mistakes",
+      "x": -216,
+      "y": 107,
+      "link": "https://grammar.ilearnczech.com/dative/prepositions#common-mistakes",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k73rni",
+      "name": "← Theory",
+      "x": -246,
+      "y": 37,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

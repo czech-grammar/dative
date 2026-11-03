@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fill in the Blank",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/fill-blank",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#miy6ts",
+      "name": "Level 1: Masculine Animate",
+      "x": -212,
+      "y": -113,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/fill-blank#level-1-masculine-animate",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "Level 2: Feminine with Palatalization",
+      "x": 76,
+      "y": -203,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/fill-blank#level-2-feminine-with-palatalization",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#it6792",
+      "name": "Level 3: Soft Patterns and Neuter",
+      "x": 269,
+      "y": 38,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/fill-blank#level-3-soft-patterns-and-neuter",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "Level 4: Pronouns",
+      "x": 76,
+      "y": 203,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/fill-blank#level-4-pronouns",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "Level 5: Plurals",
+      "x": -114,
+      "y": 189,
+      "link": "https://grammar.ilearnczech.com/dative/exercises/fill-blank#level-5-plurals",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "← Exercises",
+      "x": -234,
+      "y": 74,
+      "link": "./exercises.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}
