@@ -141,7 +141,7 @@ Feminine nouns that end in a consonant split into two groups. Look at the **geni
 | místnost | místnosti | místnost**em** | Jdeme k místnostem. |
 
 :::note Noc is the odd one out
-*Noc* has genitive singular *noci* like the kost type, but its dative plural is **nocím**, like the píseň type. A few other words mix the two patterns the same way (*moc → mocím*). Learn *nocím* as a word.
+*Noc* has genitive singular *noci* like the kost type, but its dative plural is **nocím**, like the píseň type. Learn *nocím* as a word.
 :::
 
 ---
@@ -336,7 +336,7 @@ Put the noun in the Dative plural:
 ## Memory Trick
 
 :::info Long vowel + m
-- **-ům** = the default: every masculine, and neuter -o (think: **Ů** for mŮž, dŮm)
+- **-ům** = the default: every masculine, and neuter -o (think: **Ů** as in stŮl, dŮm)
 - **-ám** = feminine -a words (fem**A** → -**Á**m)
 - **-ím** = soft feminine and neuter (soft consonants want -í-)
 - **-em** = the short one: kost**em**, věc**em**, lid**em**, dět**em**
